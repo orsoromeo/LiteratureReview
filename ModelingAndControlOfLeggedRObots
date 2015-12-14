@@ -1,0 +1,37 @@
+\section{Modeling and Control of Legged Robots \cite{Tedrake1}}
+Authors: Wieber, Tedrake, Kuindersma\\
+Year: 2015\\
+\subsection*{Summary}
+This documents develops a comprehensive summary regarding the main tools available to design dynamic gaits for walking robots (biped robots specifically). A particular focus is given to the controllability of the gait and the robustness analysis; the following four stability measures are explained:
+\begin{itemize}
+\item Robust stability
+\item Stochastic stability
+\item Input-Output stability
+\item Stability margin: keeping away from boundaries such as the distance between the CoP and the edge of the convex support polygon.
+\end{itemize}
+The control design has got the following main tools for the robustness analysis of a given gait:
+\begin{itemize}
+\item Fixed points: A fixed point is a safe configuration of the robot where it can stand still;
+\item Limit cycles: it represents an extension of the fixed point to the case of periodic gaits. More precisely it is a periodic orbit, namely a solution $\{q(t), u(t), f(t) | t \in [0,\infty) \}$ such that $q(t+T) = q(t)$, $u(t+T) = u(t)$ and $f(t+T) = f(t)$ where T is the period of the periodic orbit in the phase plane. A periodic solution is (asymptotically) orbitally stable if:
+$$ \lim_{t\to\infty} [ \min_{0\leq t' \leq T} || q(t) - q_0(t')|| ] = 0$$
+This means that the trajectories must not converge, only the distance between the initial point and the closest point must go to zero. This can be defined in a region containing $q_0(.)$ or globally (even if globally stable legged robots are of little interest).
+The existence of such limit cycle depends on the actuation of the system, for a highly underactuated (or even passive) robot the computation of a limit cycle can be very challenging. As an opposite, for fully actuated robots, there exist many control policies $\mathbf{u}(t) = \mathbold{\pi} (t, \mathbf{q}(t),\dot{\mathbf{q}}(t),\mathbf{f}(t)$ that will lead to a limit cycle.
+\item Viability = viability is referred to as ''not falling down'' capability. The viable space is thus defined as the set of states where the robot is able to avoid to fall down.
+\item Controllability = capability to bring the robot from an arbitrary initial state to a final one within a finite time. In linear systems this is a property of the system, regardless of the initial and final conditions and it can be analysed by means of the controllability matrix. For nonlinear systems instead controllability is strongly dependent the initial and final states.
+As a consequence we can distinguish different types of controllability depending on the initial and final states. For legged robots the controllability is considered as the ability to bring the system to a stable fixed point (called \textbf{capture point}). The set of initial states that can lead to a fixed point within a limited number of steps is called \textbf{capturable}. 
+\end{itemize}
+
+
+
+\subsection*{Key points / Takeaways}
+\begin{enumerate}
+\item definition of the Capture Point CP as a stable fixed point of the Poincaré Map
+\item Clear description of the coupled dynamics of CoM, ZMP and CP.
+\end{enumerate}
+\subsection*{Weak points}
+\subsection*{Ideas}
+\begin{enumerate}
+\item They should be better highlighted and fully described the links between CP and poincaré maps
+\item Possibly the concept of CP should be extended to the ability to pass from a limit cycle to another limit cycle.
+\item Worst case analysis of controller robustness has been given little attention so far. An extension of the Lyapunov functions-based methods shows that ''nominal solutions of the limit cycle are often parameter dependent''.
+\end{enumerate}
