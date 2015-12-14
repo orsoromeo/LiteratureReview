@@ -1,0 +1,55 @@
+\section{Numerical Methods for Optimal Control - Rao 2010 \cite{Rao} \cite{Betts}}
+Authors: Rao\\
+Year: 2010
+\subsection*{Summary}
+We can distinguish between 	\textit{trajectory optimization} and \textit{optimal control} problems mainly involved in control problems. The first case the optimization variables are static parameters while in the second case they are functions. In both cases the goal is to optimize (minimize or maximise) an objective index (which is a function in the case of trajectory optimization and it is a functional in the case of optimal control).\\
+In the category of optimal control we can distinguish the following typical problems to be solved:
+\begin{enumerate}
+\item Systems of nonlinear equations
+\item Differential equations and integration of function
+\begin{itemize}
+\item Time-marching
+\begin{itemize}
+\item Multiple-step methods (implicit (such as Euler forward, Crank-Nicolson or explicit liek Euler backward))
+\item Multiple-stage methods (\textbf{Runge-Kutta} ''discretization '' method)\\
+In this method we divide the period of interest subintervals of duration h (the smaller is h the better will be the approximation). In this way the period is ''discretized''. The typical Runge-Kutta method is a fourth order method, meaning that the value of each stage is computed by means of 4 parameters. This method is very good \textit{locally} in that the approximation performance decrease faw away from the initial stage.
+\end{itemize}
+\item Collocation\\
+\begin{itemize}
+\item Gauss
+\item Radau
+\item Lobatto
+\end{itemize}
+This methods aim at approximating a function with a polynomial, the order of which is determined by the number of conditions we can impose. Each condition refers to a time instant. All the \textit{collocation conditions} make up together a system where they are rewritten in the form of \textit{defect conditions}. The solution of this system leads to a \textit{simultaneous} computation of all the parameters (as an opposite to the \textit{predictor-corrector} approach found in time-marching).
+\begin{itemize}
+\item Orthogonal collocation: in this method the collocation points are roots of special family of polynomials named \textit{orthogonal polynomials} (e.g Legendre polynomials and Chebyshev polynomials). When the points are chose in an orthogonal mater (such as in this method) then the approximation to a definite integral is much more precise than the normal collocation methods.
+\end{itemize}
+\end{itemize}
+\item Nonlinear optimization / Nonlinear Programming (NLP)
+\begin{itemize}
+\item Gradient-based methods
+\begin{itemize}
+\item Sequential Quadratic Programming (SQP)
+\item Interior-point (IP)
+\item Barrier methods
+\end{itemize}
+\item Euristic methods (stochastics)
+\begin{itemize}
+\item Genetic algorithms: each genetic algorithm is made of the following components: encoding, fitness, selection, crossover and mutation
+\item Simulated annealing
+\item Particle swarm optimization (PSO)
+\end{itemize}
+\end{itemize}
+\end{enumerate}
+The first two points are instances of problems to be solved with \textbf{indirect methods} while the second and the third are to be solved with \textbf{direct methods}. The second point can be solved with both methods.\\
+\begin{itemize}
+\item indirect methods/transcription: 
+\item direct methods/transcription (discretize then optimize):
+\begin{itemize}
+\item control parametrization method
+\item state and control parametrization method (such as direct collocation)
+\end{itemize}
+\end{itemize}
+\subsection*{Key points / Takeaways}
+\subsection*{Weak points}
+\subsection*{Ideas}
