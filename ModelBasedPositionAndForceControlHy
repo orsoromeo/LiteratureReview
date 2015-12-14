@@ -1,0 +1,38 @@
+\section{Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite{ChenWang}}
+Authors: Guangrong Chen , Junzheng Wang, Shoukun Wang, Jiangbo Zhao, and Wei Shen\\
+year: 2016
+\subsection*{Summary}
+The compliance controller is a mix of active and passive compliance. The \textbf{realized compliance} $Z_r$ is defined as the ratio between the applied force/torque $F(s)$ and the resulting position error $e(s) = x_0(s)-x(s)$. It is proved that the quantity $Z_r(s)$ can also be written as:
+$$ Z_r(s)  = Z_d(s) \cdot G_p^{-1}(s) $$ where $Z_d(s)$ is the desired compliance and $G_p(s)$ is the inner closed-loop transfer function.\\
+The compression of the passive spring $p_e(s)$ is just a bit of the total compression $p(s)$:
+$$ p_e(s) = [1+Z_r^{-1}(s) \cdot Z_e(s)]^{-1} \cdot p(s)$$
+As regards the stability we can say that the passive part of the system (the passive spring) is stable if the all system is stable and viceversa. In order for this property to hold in this system we need the term $[1+Z_r^{-1}(s) \cdot Z_e(s)]^{-1}$ to be stable. This is verified if $K_r \geq min(K_e, K_p)$ where $K_r$ is the realized impedance of the system, $K_e$ is the one of the passive spring (the environment) and $K_p$ is the one of the active part.
+\subsection*{Key points/ Takeaways}
+\begin{itemize}
+\item two main conditions for a compliance controller to be stable: the inner c.l. transfer function must be stable and  $K_r \geq min(K_e, K_p)$ must hold true.
+\item in the system described in this paper, a quadruped robot with passive springs in its legs we can define the total compliance as mix of active and passive one. The passive compliance term is a pure stiffness $K_e$, while the active term is composed of stiffness $K_r$ and damping $B_r$ (also named \textit{dissipation component}). The damping part is due to the friction of the hydraulic actuators.
+\item The Baud-rate on a CANBUS device refers to the rate (speed) at which data is transmitted on the network. This is typically expressed in kilobits-per-second (kbps). In this case the CAN BUS baud-rate is 1000 kbps, cio\'e 1 Mbps (The baud-rate of a EtherCat can be up to 100 Mbps)
+\item A method is proposed at page 4 to define the desired reference stiffness $K_d$ given the vicious friction (viscous friction) $B_r$ of the hydraulic actuators.
+\item The compliance control sensibly reduces the peak in the impact force and the settling time is also considerably reduced.
+\item The compliant behavior cannot be achieved by only active compliance control if the controller is not fast enough. The adjoint of a passive spring reduces the impact force peak and makes the impact duration longer, giving more time to the controller in order to react.
+\item The Swing Leg Retraction (SLR), even if so far it was not assessed how to generate it, it does clearly reduce the impact forces
+\item In the case of ideal stiff actuator we assume that the actuator can reach in one single sample the desired value. In this case the inner closed-loop transfer function and $G_p = I$ and the position error transfer function $E_p = 0$.
+\end{itemize}
+\subsection*{Weak Points}
+\begin{itemize}
+\item Shouldn't the title mention the world ''compliance''? e.g. ''mix of active and passive compliance''
+\item Figure n. 2 is not explained at all
+\item At line 52 page 2 right column two words are missing so the meaning of the whole sentence is not clear
+\item It looks like the robot is equipped with a spring on the leg, so the final compliance is a mix of active and passive one. This should be stated more clearly in the intro
+\item Figure 6: The letter P does not appear so it is not straighforward to read the image. Also F is not represented in the image whilst H is drawn twice so it might have two different meanings. Also the \textit{landing angle} $\alpha$ should be represented in this figure.
+\item is it "vicious friction" or "viscous friction" (referred to the damping factor of the hydraulic actuators)?
+\item How could they get the blue dotted curve in figure 11? Didi they have to lock the actuators to obtain it?
+\item it should better be defined what a \textbf{passive system} is. A passive system in general is defined as a system where there is energy dissipation (such as the damping of spring-damper or such as the induction). In the considered system the dissipation is given by the term $B_r$ which represents the damping of the active spring.
+\item the compliant behavior can be usually achieved in two ways: 
+\begin{enumerate}
+\item the force info is multiplied by the inverse of the desired impedance in order to compute the corresponding compression of the joints (this is called \textbf{admittance} control);
+\item the compression $\Delta \theta$ and the joint velocity $\dot{\theta}$ are multiplied by a stiffness factor $P_{gain}$ and a damping factor $D_{gain}$ (this is referred to as \textbf{impedance} control)
+\end{enumerate}
+In both way the force info (or the compression and speed info) can either come from the end-effector only, or from each joint of the leg.
+\end{itemize}
+\subsection*{Ideas}
