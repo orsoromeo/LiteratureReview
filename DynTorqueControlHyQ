@@ -1,0 +1,27 @@
+\section{Dynamic Torque Control of a Hydraulic Quadruped Robot \cite{SeminiFocchi}}
+Authors: Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell\\
+year: 2012
+\subsection*{Summary}
+Main features required to a quadruped robot controller:
+\begin{itemize}
+\item precise: able to perform accurate footholds placement
+\item fast: able to produce fast movements
+\item robust: needed against uncertainties and disturbancies
+\item compliant: needed to withstand impacts and crashes
+\end{itemize}
+The \textbf{whole-body control} is a model-based controller which operates through an inversion of the dynamics, this can be seen as a \textbf{force/torque control}. The \textbf{position control} will still be present as a lower level control but will have low gains and thus have a little influence on the lower higher level.\\
+When we talk about stability in the field of dynamic motions we had better refer to \textbf{limit-cicle stability}.
+\subsection*{Key points / Takeaways}
+\begin{itemize}
+\item the controller can be described as a three-layer controller:
+\begin{itemize}
+\item The outer layer is a position control in the joint space
+\item the middle layer is a force/torque controller
+\item the inner layer is a position/speed control in the operational space and a pressure controller
+\end{itemize}
+All these quantities are linearized thanks to a feedback linearization which leads to a linearized input $v$, this is computed as a PID controller. This PID controller is also responsible for the compliance of the system: in order to keep safe the mechanical parts and the electronics from impacts the torque peaks are always kept at safe level underneath 160 Nm.
+\item The robustness of the controller is not only achieved by means of robust controllers but also with robust hardware. The flow of the valves must have a large bandwith so that it can meet the requirements of different gaits.
+\item An equation for force control for hydraulically actuated robots can be computed using the \textit{Bernoulli} equation (force equilibrium) \cite{ThiagoSemini}. 
+\end{itemize}
+\subsection*{Weak Points}
+\subsection*{Ideas}
