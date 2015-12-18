@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{Tedrake1}
+R.~Tedrake, P.B. Wieber, and S.~Kuidersma.
+\newblock Modeling and control of legged robots.
+\newblock {\em Springer Handbook of Robotics}, chapter 48, 2015.
+
+\bibitem{Koolen:2012:CAC:2344876.2344877}
+Twan Koolen, Tomas De~Boer, John Rebula, Ambarish Goswami, and Jerry Pratt.
+\newblock Capturability-based analysis and control of legged locomotion, part
+  1: Theory and application to three simple gait models.
+\newblock {\em Int. J. Rob. Res.}, 31(9):1094--1113, August 2012.
+
+\bibitem{Pratt+CDG:2006}
+Jerry Pratt, John Carff, Sergey Drakunov, and Ambarish Goswami.
+\newblock Capture point: A step toward humanoid push recovery.
+\newblock In {\em Proceedings of the Sixth IEEE-RAS International Conference on
+  Humanoid Robots (Humanoids 2006)}, pages 200--207. IEEE, 2006.
+
+\bibitem{Rao}
+Rao Anil~V.
+\newblock A survey of numerical methods for optimal control.
+\newblock In {\em Advances in the astronautical sciences}, volume 315, 2010.
+
+\bibitem{Betts}
+Betts John~T.
+\newblock {\em Practical Methods for Optimal Control and Estimation Using
+  Nonlinear Programming}, chapter~4, pages 123--192.
+
+\bibitem{ChenWang}
+GuangRong Chen, Junzheng Wang, Shokun Wang, Jiangbo Zhao, and Wei Shen.
+\newblock Model-based position force controller for a hydraulic legged robot.
+\newblock 2016.
+
+\bibitem{SeminiFocchi}
+Jonas Buchli Marco Frigerio Michele Focchi Darwin G.~Caldwell
+  Thiago~Boaventura, Claudio~Semini.
+\newblock Dynamic torque control of a hydraulic quadruped robot.
+\newblock {\em International Conference on Robotics and Automation}, 2012.
+
+\bibitem{SeminiFocchi2}
+Jonas Buchli Marco Frigerio Michele Focchi Darwin G. Caldwell Jonas~Buchli
+  Thiago~Boaventura, Claudio~Semini.
+\newblock Robot impedance control and passivity analysis with inner torque and
+  velocity feedback.
+\newblock 2014.
+
+\bibitem{ThiagoSemini}
+Cunha Thiago~B., Semini Claudio, Guglielmino Emanuele, De~Negri Victor~J., Yang
+  Yousheng, and Caldwell Darwin~G.
+\newblock Gain scheduling control for the hydraulic actuation of the hyq robot
+  leg.
+\newblock {\em International Conference on Robotics and Automation}, 2012.
+
+\end{thebibliography}

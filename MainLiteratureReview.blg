@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MainLiteratureReview.aux
+A level-1 auxiliary file: ModelingAndControlOfLeggedRObots.aux
+A level-1 auxiliary file: CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux
+A level-1 auxiliary file: CapturePoint.aux
+A level-1 auxiliary file: SequentialComposition.aux
+A level-1 auxiliary file: ParallelCompositionOfTemplates.aux
+A level-1 auxiliary file: LeggedSelfManipulation.aux
+A level-1 auxiliary file: NumericalMethodsForOptimalControl.aux
+A level-1 auxiliary file: ModelBasedPositionAndForceControlHy.aux
+A level-1 auxiliary file: DynTorqueControlHyQ.aux
+A level-1 auxiliary file: GainScheduling.aux
+A level-1 auxiliary file: TorqueAndComplianceControl.aux
+The style file: unsrt.bst
+Database file #1: mybib.bib.bib
+Warning--can't use both volume and number fields in Rao
+Warning--empty publisher in Betts
+Warning--empty year in Betts
+Warning--empty journal in ChenWang
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell" for entry SeminiFocchi
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell" for entry SeminiFocchi
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell" for entry SeminiFocchi
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell, Jonas Buchli" for entry SeminiFocchi2
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell, Jonas Buchli" for entry SeminiFocchi2
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell, Jonas Buchli" for entry SeminiFocchi2
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Thiago Boaventura, Claudio Semini, Jonas Buchli, Marco Frigerio, Michele Focchi, Darwin G. Caldwell, Jonas Buchli" for entry SeminiFocchi2
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in SeminiFocchi2
+You've used 9 entries,
+            1791 wiz_defined-function locations,
+            514 strings with 5716 characters,
+and the built_in function-call counts, 2033 in all, are:
+= -- 166
+> -- 95
+< -- 4
++ -- 36
+- -- 27
+* -- 128
+:= -- 322
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 103
+empty$ -- 197
+format.name$ -- 27
+if$ -- 455
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 10
+newline$ -- 47
+num.names$ -- 9
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 53
+stack$ -- 0
+substring$ -- 91
+swap$ -- 30
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 16
+width$ -- 10
+write$ -- 93
+(There were 7 error messages)
