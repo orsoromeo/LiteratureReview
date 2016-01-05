@@ -9,4 +9,6 @@
 \contentsline {section}{\numberline {9}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{15}
 \contentsline {section}{\numberline {10}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{16}
 \contentsline {section}{\numberline {11}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{17}
-\contentsline {section}{\numberline {12}M. Diehl - Fast direct multiple shooting algorithms for optimal robot control}{19}
+\contentsline {section}{\numberline {12}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{19}
+\contentsline {section}{\numberline {13}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{20}
+\contentsline {section}{\numberline {14}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{21}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Tedrake1}
 R.~Tedrake, P.B. Wieber, and S.~Kuidersma.
@@ -44,6 +44,25 @@ Jonas Buchli Marco Frigerio Michele Focchi Darwin G. Caldwell Jonas~Buchli
 \newblock Robot impedance control and passivity analysis with inner torque and
   velocity feedback.
 \newblock 2014.
+
+\bibitem{DiehlWieber}
+Moritz Diehl, Hans~Georg Bock, Holger Diedam, and Pierre-Brice Wieber.
+\newblock {Fast Direct Multiple Shooting Algorithms for Optimal Robot Control}.
+\newblock In {\em {Fast Motions in Biomechanics and Robotics}}, Heidelberg,
+  Germany, 2005.
+
+\bibitem{betts2010practical}
+J.T. Betts.
+\newblock {\em Practical Methods for Optimal Control and Estimation Using
+  Nonlinear Programming: Second Edition}.
+\newblock Advances in Design and Control. Society for Industrial and Applied
+  Mathematics (SIAM, 3600 Market Street, Floor 6, Philadelphia, PA 19104),
+  2010.
+
+\bibitem{Hauser2008}
+K.~Hauser.
+\newblock {\em Motion Planning for Legged and Humanoid Robots}.
+\newblock PhD thesis, 2008.
 
 \bibitem{ThiagoSemini}
 Cunha Thiago~B., Semini Claudio, Guglielmino Emanuele, De~Negri Victor~J., Yang
