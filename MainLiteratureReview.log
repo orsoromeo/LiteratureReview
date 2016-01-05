@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  18 DEC 2015 12:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  18 DEC 2015 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -137,7 +137,8 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 ) (./ParallelCompositionOfTemplates.aux) (./LeggedSelfManipulation.aux)
 (./NumericalMethodsForOptimalControl.aux)
 (./ModelBasedPositionAndForceControlHy.aux) (./DynTorqueControlHyQ.aux)
-(./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux))
+(./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux)
+(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -394,7 +395,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
-Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 24.
+Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
  [17
 
@@ -403,28 +404,49 @@ Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 24.
 [18]
 \openout2 = `Diehl.aux'.
 
- (./Diehl.tex) [19
+ (./Diehl.tex <OptimizationDiehl.png, id=83, 912.40875pt x 559.08875pt>
+File: OptimizationDiehl.png Graphic file (type png)
+
+<use OptimizationDiehl.png>
+Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
+(pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
+) [19
 
 
-] (./MainLiteratureReview.bbl) [20
+ <./OptimizationDiehl.png>]
+\openout2 = `BettsPracticalMethods.aux'.
+
+
+(./BettsPracticalMethods.tex) [20
+
 
 ]
-(./MainLiteratureReview.aux (./ModelingAndControlOfLeggedRObots.aux)
+\openout2 = `MotionPlanningHauser.aux'.
+
+ (./MotionPlanningHauser.tex) [21
+
+
+]
+(./MainLiteratureReview.bbl) [22
+
+] (./MainLiteratureReview.aux
+(./ModelingAndControlOfLeggedRObots.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
 (./CapturePoint.aux) (./SequentialComposition.aux)
 (./ParallelCompositionOfTemplates.aux) (./LeggedSelfManipulation.aux)
 (./NumericalMethodsForOptimalControl.aux)
 (./ModelBasedPositionAndForceControlHy.aux) (./DynTorqueControlHyQ.aux)
-(./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux))
+(./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux)
+(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2188 strings out of 493304
- 33132 string characters out of 6139870
- 100330 words of memory out of 5000000
- 5536 multiletter control sequences out of 15000+600000
+ 2213 strings out of 493304
+ 33714 string characters out of 6139870
+ 100825 words of memory out of 5000000
+ 5546 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -442,10 +464,10 @@ r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (20 pages, 434713 bytes).
+Output written on MainLiteratureReview.pdf (22 pages, 491826 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 146 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
