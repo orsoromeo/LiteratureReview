@@ -1,12 +1,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 17:19
+=======
+>>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  6 JAN 2016 00:43
 =======
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 00:27
 >>>>>>> 416bd3285c8f8cd7866ab03641c875228f98382b
+<<<<<<< HEAD
 =======
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 17:19
 >>>>>>> 1472c88d6cee89ea25b8d8037eb4b31a4faf41b8
+=======
+>>>>>>> b8f2b1561bb3bf9daf35f6cf70c57bcdd9763efc
+>>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,10 +461,17 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  2213 strings out of 493304
  33714 string characters out of 6139870
  100825 words of memory out of 5000000
  5546 multiletter control sequences out of 15000+600000
+=======
+ 2212 strings out of 495028
+ 33498 string characters out of 6181498
+ 96624 words of memory out of 5000000
+ 5297 multiletter control sequences out of 15000+600000
+>>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -519,4 +535,18 @@ PDF statistics:
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+<<<<<<< HEAD
 >>>>>>> 1472c88d6cee89ea25b8d8037eb4b31a4faf41b8
+=======
+=======
+ 798 strings out of 495028
+ 10422 string characters out of 6181498
+ 59521 words of memory out of 5000000
+ 4072 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,0n,19p,252b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+>>>>>>> 416bd3285c8f8cd7866ab03641c875228f98382b
+>>>>>>> b8f2b1561bb3bf9daf35f6cf70c57bcdd9763efc
+>>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
