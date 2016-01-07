@@ -12,3 +12,4 @@
 \contentsline {section}{\numberline {12}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{19}
 \contentsline {section}{\numberline {13}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{20}
 \contentsline {section}{\numberline {14}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{21}
+\contentsline {section}{\numberline {15}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{22}
