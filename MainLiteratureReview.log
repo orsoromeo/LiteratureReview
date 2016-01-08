@@ -1,28 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 17:19
-=======
->>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  6 JAN 2016 00:43
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 00:27
->>>>>>> 416bd3285c8f8cd7866ab03641c875228f98382b
-<<<<<<< HEAD
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  6 JAN 2016 17:19
->>>>>>> 1472c88d6cee89ea25b8d8037eb4b31a4faf41b8
-=======
->>>>>>> b8f2b1561bb3bf9daf35f6cf70c57bcdd9763efc
->>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  7 JAN 2016 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MainLiteratureReview.tex
 (./MainLiteratureReview.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -145,6 +128,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 )
 (./MainLiteratureReview.aux (./ModelingAndControlOfLeggedRObots.aux)
+(./UnderactuatedRobotics.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
 (./CapturePoint.aux) (./SequentialComposition.aux
 
@@ -154,7 +138,11 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 (./NumericalMethodsForOptimalControl.aux)
 (./ModelBasedPositionAndForceControlHy.aux) (./DynTorqueControlHyQ.aux)
 (./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux)
-(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux))
+(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux
+
+LaTeX Warning: Label `OptimizationDiehl' multiply defined.
+
+) (./BoydLinearSystems.aux) (./ModelPredictiveControl.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -309,27 +297,34 @@ Missing character: There is no © in font cmr10!
  [2
 
 ]) [3]
+\openout2 = `UnderactuatedRobotics.aux'.
+
+
+(./UnderactuatedRobotics.tex) [4
+
+
+]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux'.
 
 
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex) [4
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex) [5
 
 
 ]
 \openout2 = `CapturePoint.aux'.
 
 
-(./CapturePoint.tex <CapturePoint.png, id=29, 430.60875pt x 589.20125pt>
+(./CapturePoint.tex <CapturePoint.png, id=32, 430.60875pt x 589.20125pt>
 File: CapturePoint.png Graphic file (type png)
 
 <use CapturePoint.png>
 Package pdftex.def Info: CapturePoint.png used on input line 8.
 (pdftex.def)             Requested size: 256.0748pt x 350.39478pt.
- [5
+ [6
 
 
  <./CapturePoint.png>]
-<CPPhasePlane.png, id=35, 711.65875pt x 477.785pt>
+<CPPhasePlane.png, id=38, 711.65875pt x 477.785pt>
 File: CPPhasePlane.png Graphic file (type png)
  <use CPPhasePlane.png>
 Package pdftex.def Info: CPPhasePlane.png used on input line 20.
@@ -337,7 +332,7 @@ Package pdftex.def Info: CPPhasePlane.png used on input line 20.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no © in font cmr10!
 )
-[6 <./CPPhasePlane.png>]
+[7 <./CPPhasePlane.png>]
 \openout2 = `SequentialComposition.aux'.
 
  (./SequentialComposition.tex
@@ -346,25 +341,25 @@ Overfull \hbox (1.03278pt too wide) in paragraph at lines 1--1
 -cally Dex-
  []
 
-<Koditschek1.png, id=41, 871.255pt x 375.4025pt>
+<Koditschek1.png, id=45, 871.255pt x 375.4025pt>
 File: Koditschek1.png Graphic file (type png)
  <use Koditschek1.png>
 Package pdftex.def Info: Koditschek1.png used on input line 14.
 (pdftex.def)             Requested size: 256.0748pt x 110.33607pt.
- [7
+ [8
 
 
- <./Koditschek1.png>]) [8]
+ <./Koditschek1.png>]) [9]
 \openout2 = `ParallelCompositionOfTemplates.aux'.
 
- (./ParallelCompositionOfTemplates.tex) [9
+ (./ParallelCompositionOfTemplates.tex) [10
 
 
 ]
 \openout2 = `LeggedSelfManipulation.aux'.
 
 
-(./LeggedSelfManipulation.tex) [10
+(./LeggedSelfManipulation.tex) [11
 
 
 ]
@@ -380,26 +375,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[11
+[12
 
 
-]) [12]
+]) [13]
 \openout2 = `ModelBasedPositionAndForceControlHy.aux'.
 
- (./ModelBasedPositionAndForceControlHy.tex [13
+ (./ModelBasedPositionAndForceControlHy.tex [14
 
 
-]) [14]
+]) [15]
 \openout2 = `DynTorqueControlHyQ.aux'.
 
 
-(./DynTorqueControlHyQ.tex) [15
+(./DynTorqueControlHyQ.tex) [16
 
 
 ]
 \openout2 = `GainScheduling.aux'.
 
- (./GainScheduling.tex) [16
+ (./GainScheduling.tex) [17
 
 
 ]
@@ -407,71 +402,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
 
 (./TorqueAndComplianceControl.tex
-<VelocityAndTorqueControl.png, id=75, 759.83875pt x 254.9525pt>
+<VelocityAndTorqueControl.png, id=78, 759.83875pt x 254.9525pt>
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
 Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
- [17
+ [18
 
 
  <./VelocityAndTorqueControl.png>])
-[18]
+[19]
 \openout2 = `Diehl.aux'.
 
- (./Diehl.tex <OptimizationDiehl.png, id=83, 912.40875pt x 559.08875pt>
+ (./Diehl.tex <OptimizationDiehl.png, id=87, 912.40875pt x 559.08875pt>
 File: OptimizationDiehl.png Graphic file (type png)
 
 <use OptimizationDiehl.png>
 Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
-) [19
+) [20
 
 
  <./OptimizationDiehl.png>]
 \openout2 = `BettsPracticalMethods.aux'.
 
 
-(./BettsPracticalMethods.tex) [20
+(./BettsPracticalMethods.tex) [21
 
 
 ]
 \openout2 = `MotionPlanningHauser.aux'.
 
- (./MotionPlanningHauser.tex) [21
+ (./MotionPlanningHauser.tex
+<FamilyModes.png, id=95, 835.12pt x 308.15125pt>
+File: FamilyModes.png Graphic file (type png)
+ <use FamilyModes.png>
+Package pdftex.def Info: FamilyModes.png used on input line 14.
+(pdftex.def)             Requested size: 341.43306pt x 125.98547pt.
+)
+[22
+
+
+ <./FamilyModes.png>]
+\openout2 = `BoydLinearSystems.aux'.
+
+ (./BoydLinearSystems.tex) [23
 
 
 ]
-(./MainLiteratureReview.bbl) [22
+\openout2 = `ModelPredictiveControl.aux'.
 
-] (./MainLiteratureReview.aux
-(./ModelingAndControlOfLeggedRObots.aux)
+
+(./ModelPredictiveControl.tex) [24
+
+
+] (./MainLiteratureReview.bbl) [25
+
+]
+(./MainLiteratureReview.aux (./ModelingAndControlOfLeggedRObots.aux)
+(./UnderactuatedRobotics.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
 (./CapturePoint.aux) (./SequentialComposition.aux)
 (./ParallelCompositionOfTemplates.aux) (./LeggedSelfManipulation.aux)
 (./NumericalMethodsForOptimalControl.aux)
 (./ModelBasedPositionAndForceControlHy.aux) (./DynTorqueControlHyQ.aux)
 (./GainScheduling.aux) (./TorqueAndComplianceControl.aux) (./Diehl.aux)
-(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux))
+(./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux)
+(./BoydLinearSystems.aux) (./ModelPredictiveControl.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
- 2213 strings out of 493304
- 33714 string characters out of 6139870
- 100825 words of memory out of 5000000
- 5546 multiletter control sequences out of 15000+600000
-=======
- 2212 strings out of 495028
- 33498 string characters out of 6181498
- 96624 words of memory out of 5000000
- 5297 multiletter control sequences out of 15000+600000
->>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
+ 2242 strings out of 493304
+ 34180 string characters out of 6139870
+ 101625 words of memory out of 5000000
+ 5554 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -489,64 +496,10 @@ r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (22 pages, 491909 bytes).
+Output written on MainLiteratureReview.pdf (25 pages, 595662 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 159 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-=======
- 798 strings out of 495028
- 10422 string characters out of 6181498
- 59521 words of memory out of 5000000
- 4072 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 27i,0n,19p,252b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
->>>>>>> 416bd3285c8f8cd7866ab03641c875228f98382b
-=======
- 2212 strings out of 495028
- 33498 string characters out of 6181498
- 96624 words of memory out of 5000000
- 5297 multiletter control sequences out of 15000+600000
- 10530 words of font info for 36 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (22 pages, 492064 bytes).
-PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-<<<<<<< HEAD
->>>>>>> 1472c88d6cee89ea25b8d8037eb4b31a4faf41b8
-=======
-=======
- 798 strings out of 495028
- 10422 string characters out of 6181498
- 59521 words of memory out of 5000000
- 4072 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 27i,0n,19p,252b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
->>>>>>> 416bd3285c8f8cd7866ab03641c875228f98382b
->>>>>>> b8f2b1561bb3bf9daf35f6cf70c57bcdd9763efc
->>>>>>> d29362c7142b63fb9ab0215dd3c4a2be1b461293
