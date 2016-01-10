@@ -17,6 +17,11 @@ Jerry Pratt, John Carff, Sergey Drakunov, and Ambarish Goswami.
 \newblock In {\em Proceedings of the Sixth IEEE-RAS International Conference on
   Humanoid Robots (Humanoids 2006)}, pages 200--207. IEEE, 2006.
 
+\bibitem{johnson}
+Aaron~M Johnson and D~E Koditschek.
+\newblock Legged self-manipulation.
+\newblock {\em IEEE Access}, 1:310--334, May 2013.
+
 \bibitem{Rao}
 Rao Anil~V.
 \newblock A survey of numerical methods for optimal control.
