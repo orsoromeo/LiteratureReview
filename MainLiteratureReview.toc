@@ -1,12 +1,18 @@
 \contentsline {section}{\numberline {1}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{3}
 \contentsline {section}{\numberline {2}Tedrake - Underactuated Robotics}{5}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {3}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{6}
 \contentsline {section}{\numberline {4}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{8}
+=======
+\contentsline {section}{\numberline {3}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{6}
+\contentsline {section}{\numberline {4}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{7}
+>>>>>>> 996c2a27fa73eea174b8de6b54f103f9d73589d4
 \contentsline {section}{\numberline {5}D.E. Koditscheck - Sequential Composition of Dynamically Dexterous Robot Behaviors}{9}
 \contentsline {section}{\numberline {6}D.E. Koditschek - The Penn Jerboa: a platform for exploring parallel composition of templates - Koditschek}{11}
 \contentsline {section}{\numberline {7}D.E. Koditschek - Legged Self-manipulation \cite {johnson}}{12}
 \contentsline {section}{\numberline {8}Rao - Numerical Methods for Optimal Control \cite {Rao} \cite {Betts}}{13}
 \contentsline {section}{\numberline {9}Wang - Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite {ChenWang}}{15}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {10}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{17}
 \contentsline {section}{\numberline {11}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{18}
 \contentsline {section}{\numberline {12}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{19}
@@ -16,3 +22,15 @@
 \contentsline {section}{\numberline {16}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{24}
 \contentsline {section}{\numberline {17}Boyd - Introduction to Linear Dynamical Systems}{25}
 \contentsline {section}{\numberline {18}A. Bemporad - Model Predictive Control Course}{26}
+=======
+\contentsline {section}{\numberline {10}Wang - A strategy for push recovery in quadruped robot based on reinforcement learning - 2015}{17}
+\contentsline {section}{\numberline {11}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{18}
+\contentsline {section}{\numberline {12}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{19}
+\contentsline {section}{\numberline {13}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{20}
+\contentsline {section}{\numberline {14}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{22}
+\contentsline {section}{\numberline {15}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{23}
+\contentsline {section}{\numberline {16}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{24}
+\contentsline {section}{\numberline {17}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{25}
+\contentsline {section}{\numberline {18}Boyd - Introduction to Linear Dynamical Systems}{26}
+\contentsline {section}{\numberline {19}A. Bemporad - Model Predictive Control Course}{27}
+>>>>>>> 996c2a27fa73eea174b8de6b54f103f9d73589d4
