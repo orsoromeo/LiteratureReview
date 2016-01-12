@@ -3,7 +3,7 @@ Authors: J. Pratt, Goswami\\
 Year: 2006
 \subsection*{Summary}
 The Capture Point CP is defined for push recovery purposes, namely for determining how many steps must be performed by the biped robot to recover from a push. This is done on a simplified LIP +  Flywheel model as the whole body dynamics of a robot is too complicated (being it highly dimensional, nonlinear and \textbf{hybrid}). First of all the CP is computed using the LIP model only, so that the robot can only act on the linear force $f_k$ for the push recovery, this leads to a unique point CP. The addition of the Flywheel acts as a further degree of freedom of the simplified model, that can use both $f_k$ and $\tau$ to recover from the push. This leads to the computation of a \textbf{capture region}, namely the set of all the capture points.
-\begin{figure}
+\begin{figure}[h!]
   \centering
   \includegraphics[width=90mm]{CapturePoint}
   \caption{The biped can recover from a push when its support polygon intersects the capture region}
