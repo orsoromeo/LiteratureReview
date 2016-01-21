@@ -19,3 +19,4 @@
 \contentsline {section}{\numberline {19}Boyd - Introduction to Linear Dynamical Systems}{27}
 \contentsline {section}{\numberline {20}A. Bemporad - Model Predictive Control Course}{28}
 \contentsline {section}{\numberline {21}A. Hof - The eXtrapolated Center of Mass concepts suggests a simple control of balance in walking \cite {AHof}}{29}
+\contentsline {section}{\numberline {22}P. Abbeel - Apprenticeship Learning and Reinforcement learning with application to robotic control - 2008}{30}

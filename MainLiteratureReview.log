@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  12 JAN 2016 19:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  21 JAN 2016 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -145,7 +145,8 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 
 ) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
-(./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux))
+(./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
+(./AbbeelApprenticeship.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -271,7 +272,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 (./MainLiteratureReview.toc [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (1.70937pt too wide) in paragraph at lines 22--22
+ [] []\OT1/cmr/bx/n/10 Abbeel - Ap-pren-tice-ship Learn-ing and Re-in-force-men
+t learn-ing with ap-pli-ca-tion to robotic 
+ []
+
+)
 \tf@toc=\write3
 \openout3 = `MainLiteratureReview.toc'.
 
@@ -486,17 +493,24 @@ Package pdftex.def Info: FamilyModes.png used on input line 14.
 (./eXtrapolatedCoM.tex) [29
 
 
-] (./MainLiteratureReview.bbl
+]
+\openout2 = `AbbeelApprenticeship.aux'.
+
+ (./AbbeelApprenticeship.tex) [30
+
+
+]
+(./MainLiteratureReview.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [30
+) [31
 
-]
-(./MainLiteratureReview.aux (./LearningPlanningControlChallengingTerrain.aux)
+] (./MainLiteratureReview.aux
+(./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
 (./CapturePoint.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
@@ -506,16 +520,17 @@ Missing character: There is no ™ in font cmr10!
 (./DynTorqueControlHyQ.aux) (./GainScheduling.aux)
 (./TorqueAndComplianceControl.aux) (./Diehl.aux) (./BettsPracticalMethods.aux)
 (./MotionPlanningHauser.aux) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux
-) (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux))
+) (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
+(./AbbeelApprenticeship.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2276 strings out of 493304
- 35087 string characters out of 6139870
- 102582 words of memory out of 5000000
- 5560 multiletter control sequences out of 15000+600000
+ 2284 strings out of 493304
+ 35280 string characters out of 6139870
+ 102819 words of memory out of 5000000
+ 5561 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -533,10 +548,10 @@ r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (30 pages, 601103 bytes).
+Output written on MainLiteratureReview.pdf (31 pages, 601577 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 178 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
