@@ -1,21 +1,24 @@
-\contentsline {section}{\numberline {1}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{3}
-\contentsline {section}{\numberline {2}Tedrake - Underactuated Robotics}{5}
-\contentsline {section}{\numberline {3}Park - Online Planning for autonomous running jump over obstacles in high-speed quadrupeds}{6}
-\contentsline {section}{\numberline {4}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{7}
-\contentsline {section}{\numberline {5}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{9}
-\contentsline {section}{\numberline {6}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 2 \cite {Koolen:2012:CAC:2344876.2344877}}{10}
-\contentsline {section}{\numberline {7}D.E. Koditscheck - Sequential Composition of Dynamically Dexterous Robot Behaviors}{11}
-\contentsline {section}{\numberline {8}D.E. Koditschek - The Penn Jerboa: a platform for exploring parallel composition of templates - Koditschek}{13}
-\contentsline {section}{\numberline {9}D.E. Koditschek - Legged Self-manipulation \cite {johnson}}{14}
-\contentsline {section}{\numberline {10}Rao - Numerical Methods for Optimal Control \cite {Rao} \cite {Betts}}{15}
-\contentsline {section}{\numberline {11}Wang - Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite {ChenWang}}{17}
-\contentsline {section}{\numberline {12}Wang - A strategy for push recovery in quadruped robot based on reinforcement learning - 2015}{19}
-\contentsline {section}{\numberline {13}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{20}
-\contentsline {section}{\numberline {14}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{21}
-\contentsline {section}{\numberline {15}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{22}
-\contentsline {section}{\numberline {16}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{24}
-\contentsline {section}{\numberline {17}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{25}
-\contentsline {section}{\numberline {18}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{26}
-\contentsline {section}{\numberline {19}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{27}
-\contentsline {section}{\numberline {20}Boyd - Introduction to Linear Dynamical Systems}{28}
-\contentsline {section}{\numberline {21}A. Bemporad - Model Predictive Control Course}{29}
+\contentsline {section}{\numberline {1}Kalakrishnan, Buchli, Mistry, Schaal - Learning, Planning and control for quadruped locomotion over challenging terrain}{3}
+\contentsline {section}{\numberline {2}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{4}
+\contentsline {section}{\numberline {3}Tedrake - Underactuated Robotics}{6}
+\contentsline {section}{\numberline {4}Park - Online Planning for autonomous running jump over obstacles in high-speed quadrupeds}{7}
+\contentsline {section}{\numberline {5}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{8}
+\contentsline {section}{\numberline {6}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{10}
+\contentsline {section}{\numberline {7}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 2 \cite {Koolen:2012:CAC:2344876.2344877}}{12}
+\contentsline {section}{\numberline {8}D.E. Koditscheck - Sequential Composition of Dynamically Dexterous Robot Behaviors}{13}
+\contentsline {section}{\numberline {9}D.E. Koditschek - The Penn Jerboa: a platform for exploring parallel composition of templates - Koditschek}{15}
+\contentsline {section}{\numberline {10}D.E. Koditschek - Legged Self-manipulation \cite {johnson}}{16}
+\contentsline {section}{\numberline {11}Rao - Numerical Methods for Optimal Control \cite {Rao} \cite {Betts}}{17}
+\contentsline {section}{\numberline {12}Wang - Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite {ChenWang}}{19}
+\contentsline {section}{\numberline {13}Wang - A strategy for push recovery in quadruped robot based on reinforcement learning - 2015}{21}
+\contentsline {section}{\numberline {14}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{22}
+\contentsline {section}{\numberline {15}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{23}
+\contentsline {section}{\numberline {16}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{24}
+\contentsline {section}{\numberline {17}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{26}
+\contentsline {section}{\numberline {18}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{27}
+\contentsline {section}{\numberline {19}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{28}
+\contentsline {section}{\numberline {20}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{29}
+\contentsline {section}{\numberline {21}Boyd - Introduction to Linear Dynamical Systems}{30}
+\contentsline {section}{\numberline {22}A. Bemporad - Model Predictive Control Course}{31}
+\contentsline {section}{\numberline {23}A. Hof - The eXtrapolated Center of Mass concepts suggests a simple control of balance in walking \cite {AHof}}{32}
+\contentsline {section}{\numberline {24}P. Abbeel - Apprenticeship Learning and Reinforcement learning with application to robotic control - 2008}{33}

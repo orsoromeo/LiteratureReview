@@ -5,17 +5,17 @@ R.~Tedrake, P.B. Wieber, and S.~Kuidersma.
 \newblock Modeling and control of legged robots.
 \newblock {\em Springer Handbook of Robotics}, chapter 48, 2015.
 
-\bibitem{Koolen:2012:CAC:2344876.2344877}
-Twan Koolen, Tomas De~Boer, John Rebula, Ambarish Goswami, and Jerry Pratt.
-\newblock Capturability-based analysis and control of legged locomotion, part
-  1: Theory and application to three simple gait models.
-\newblock {\em Int. J. Rob. Res.}, 31(9):1094--1113, August 2012.
-
 \bibitem{Pratt+CDG:2006}
 Jerry Pratt, John Carff, Sergey Drakunov, and Ambarish Goswami.
 \newblock Capture point: A step toward humanoid push recovery.
 \newblock In {\em Proceedings of the Sixth IEEE-RAS International Conference on
   Humanoid Robots (Humanoids 2006)}, pages 200--207. IEEE, 2006.
+
+\bibitem{Koolen:2012:CAC:2344876.2344877}
+Twan Koolen, Tomas De~Boer, John Rebula, Ambarish Goswami, and Jerry Pratt.
+\newblock Capturability-based analysis and control of legged locomotion, part
+  1: Theory and application to three simple gait models.
+\newblock {\em Int. J. Rob. Res.}, 31(9):1094--1113, August 2012.
 
 \bibitem{johnson}
 Aaron~M Johnson and D~E Koditschek.
@@ -74,6 +74,12 @@ O.~Ramos and K.~Hauser.
 \newblock {\em Generalization of the Capture Point for Nonlinear Center of Mass
   and Uneven Terrain}.
 \newblock 2015.
+
+\bibitem{AHof}
+Hof A.
+\newblock The ‘extrapolated center of mass’ concept suggests a simple
+  control of balance in walking.
+\newblock {\em Human Movement Science}, 27:112--125, November 2008.
 
 \bibitem{ThiagoSemini}
 Cunha Thiago~B., Semini Claudio, Guglielmino Emanuele, De~Negri Victor~J., Yang
