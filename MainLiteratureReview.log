@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  1 FEB 2016 15:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  9 FEB 2016 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -152,11 +152,77 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen116
 \Gm@dimlist=\toks16
 )
-(./MainLiteratureReview.aux (./LearningPlanningControlChallengingTerrain.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count99
+\mult@box=\box28
+\multicol@leftmargin=\dimen117
+\c@unbalance=\count100
+\c@collectmore=\count101
+\doublecol@number=\count102
+\multicoltolerance=\count103
+\multicolpretolerance=\count104
+\full@width=\dimen118
+\page@free=\dimen119
+\premulticols=\dimen120
+\postmulticols=\dimen121
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box29
+\last@line=\box30
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count105
+\c@finalcolumnbadness=\count106
+\last@try=\dimen122
+\multicolovershoot=\dimen123
+\multicolundershoot=\dimen124
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\multicol@sort@counter=\count107
+) (./subfigure.sty
+Package: subfigure 1995/03/06 v2.0 subfigure package
+
+Package: subfigure 1995/03/06 v2.0
+\c@subfigure=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@lotdepth=\count111
+) (./MainLiteratureReview.aux (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
-(./CapturePoint.aux)
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
-(./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux
+(./Park2015.aux) (./CapturePoint.aux)
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux
+
+LaTeX Warning: Label `PhasePlane' multiply defined.
+
+
+LaTeX Warning: Label `PhasePlane' multiply defined.
+
+
+LaTeX Warning: Label `PhasePlane' multiply defined.
+
+) (./ParkBoundingCheetahwithObstacles.aux)
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
+(./SequentialComposition.aux
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
@@ -174,31 +240,31 @@ LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 (./AbbeelApprenticeship.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count99
-\scratchdimen=\dimen117
-\scratchbox=\box28
-\nofMPsegments=\count100
-\nofMParguments=\count101
+\scratchcounter=\count112
+\scratchdimen=\dimen125
+\scratchbox=\box54
+\nofMPsegments=\count113
+\nofMParguments=\count114
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count102
-\MPscratchDim=\dimen118
-\MPnumerator=\count103
-\makeMPintoPDFobject=\count104
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen126
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
 \everyMPtoPDFconversion=\toks18
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -244,18 +310,18 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \celsius on input line 7.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 7.
+LaTeX Info: Redefining \celsius on input line 9.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 9.
 
 
 Package gensymb Warning: \perthousand will not be available.
 
-LaTeX Info: Redefining \ohm on input line 7.
-Package gensymb Info: Using \upOmega for \ohm on input line 7.
+LaTeX Info: Redefining \ohm on input line 9.
+Package gensymb Info: Using \upOmega for \ohm on input line 9.
 
 Package gensymb Warning: \micro will not be available.
 
-\c@lstlisting=\count105
+\c@lstlisting=\count118
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -291,11 +357,11 @@ Package gensymb Warning: \micro will not be available.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 14.
 (./MainLiteratureReview.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
@@ -341,38 +407,96 @@ Missing character: There is no © in font cmr10!
 
 
 ]
+\openout2 = `Park2015.aux'.
+
+ (./Park2015.tex) [7
+
+
+]
 \openout2 = `CapturePoint.aux'.
 
  (./CapturePoint.tex
-<CapturePoint.png, id=35, 430.60875pt x 589.20125pt>
+<CapturePoint.png, id=39, 430.60875pt x 589.20125pt>
 File: CapturePoint.png Graphic file (type png)
  <use CapturePoint.png>
 Package pdftex.def Info: CapturePoint.png used on input line 8.
 (pdftex.def)             Requested size: 256.0748pt x 350.39478pt.
 
-[7
+[8
 
 
- <./CapturePoint.png>] <CPPhasePlane.png, id=42, 711.65875pt x 477.785pt>
+ <./CapturePoint.png>] <CPPhasePlane.png, id=45, 711.65875pt x 477.785pt>
 File: CPPhasePlane.png Graphic file (type png)
 
 <use CPPhasePlane.png>
 Package pdftex.def Info: CPPhasePlane.png used on input line 20.
 (pdftex.def)             Requested size: 256.0748pt x 171.91498pt.
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
-) [8 <./CPPhasePlane.png>]
+) [9 <./CPPhasePlane.png>]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux'.
 
 
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex) [9
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex
+<CP.png, id=51, 454.69875pt x 380.42125pt>
+File: CP.png Graphic file (type png)
+ <use CP.png>
+Package pdftex.def Info: CP.png used on input line 10.
+(pdftex.def)             Requested size: 142.26378pt x 119.02646pt.
+
+<CPF.png, id=52, 455.7025pt x 391.4625pt>
+File: CPF.png Graphic file (type png)
+ <use CPF.png>
+Package pdftex.def Info: CPF.png used on input line 15.
+(pdftex.def)             Requested size: 142.26378pt x 122.21225pt.
+
+<CPFM.png, id=53, 484.81125pt x 404.51125pt>
+File: CPFM.png Graphic file (type png)
+ <use CPFM.png>
+Package pdftex.def Info: CPFM.png used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 118.7002pt.
+
+Overfull \hbox (17.36082pt too wide) detected at line 60
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 r \OMS/cmsy/m/n/10 ^^@ \O
+ML/cmm/m/it/10 r[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^B \OML/cmm/m/it/10 f \OT
+1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^\[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^\
+[] \OT1/cmr/m/n/10 = 0
+ []
+
+
+Overfull \hbox (46.16039pt too wide) detected at line 66
+\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 r[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 r[
+]\OMS/cmsy/m/n/10 j ^^T \OML/cmm/m/it/10 d[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10
+ r[] \OT1/cmr/m/n/10 + \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ^^Ar[]\OMS/cmsy/m/n/1
+0 j[]
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 where: $\OML/cmm/m/it/10 d[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10
+ r[] \OT1/cmr/m/n/10 +
+ []
+
+[10
+
+
+ <./CP.png> <./CPF.png> <./CPFM.png>]
+<InftyCapturability.png, id=61, 404.51125pt x 376.40625pt>
+File: InftyCapturability.png Graphic file (type png)
+
+<use InftyCapturability.png>
+Package pdftex.def Info: InftyCapturability.png used on input line 86.
+(pdftex.def)             Requested size: 142.26378pt x 132.38168pt.
+) [11 <./InftyCapturability.png>]
+\openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux'.
+
+
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.tex) [12
 
 
 ]
 \openout2 = `ParkBoundingCheetahwithObstacles.aux'.
 
 
-(./ParkBoundingCheetahwithObstacles.tex) [10
+(./ParkBoundingCheetahwithObstacles.tex) [13
 
 
 ]
@@ -384,25 +508,25 @@ Overfull \hbox (1.03278pt too wide) in paragraph at lines 1--1
 -cally Dex-
  []
 
-<Koditschek1.png, id=54, 871.255pt x 375.4025pt>
+<Koditschek1.png, id=73, 871.255pt x 375.4025pt>
 File: Koditschek1.png Graphic file (type png)
  <use Koditschek1.png>
 Package pdftex.def Info: Koditschek1.png used on input line 14.
 (pdftex.def)             Requested size: 256.0748pt x 110.33607pt.
- [11
+ [14
 
 
- <./Koditschek1.png>]) [12]
+ <./Koditschek1.png>]) [15]
 \openout2 = `ParallelCompositionOfTemplates.aux'.
 
- (./ParallelCompositionOfTemplates.tex) [13
+ (./ParallelCompositionOfTemplates.tex) [16
 
 
 ]
 \openout2 = `LeggedSelfManipulation.aux'.
 
 
-(./LeggedSelfManipulation.tex) [14
+(./LeggedSelfManipulation.tex) [17
 
 
 ]
@@ -418,54 +542,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[15
+[18
 
 
-]) [16]
+]) [19]
 \openout2 = `ModelBasedPositionAndForceControlHy.aux'.
 
- (./ModelBasedPositionAndForceControlHy.tex [17
+ (./ModelBasedPositionAndForceControlHy.tex [20
 
 
-]) [18]
+]) [21]
 \openout2 = `ReinforcementLearning.aux'.
 
 
-(./ReinforcementLearning.tex) [19
+(./ReinforcementLearning.tex) [22
 
 
 ]
 \openout2 = `DynTorqueControlHyQ.aux'.
 
- (./DynTorqueControlHyQ.tex) [20
+ (./DynTorqueControlHyQ.tex) [23
 
 
 ]
 \openout2 = `GainScheduling.aux'.
 
 
-(./GainScheduling.tex) [21
+(./GainScheduling.tex) [24
 
 
 ]
 \openout2 = `TorqueAndComplianceControl.aux'.
 
  (./TorqueAndComplianceControl.tex
-<VelocityAndTorqueControl.png, id=91, 759.83875pt x 254.9525pt>
+<VelocityAndTorqueControl.png, id=109, 759.83875pt x 254.9525pt>
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
 Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
- [22
+ [25
 
 
  <./VelocityAndTorqueControl.png>])
-[23]
+[26]
 \openout2 = `ActiveImpedanceControllersOverview.aux'.
 
  (./ActiveImpedanceControllersOverview.tex
-<PassivityOfICcontrollers.png, id=99, 586.19pt x 619.31375pt>
+<PassivityOfICcontrollers.png, id=118, 586.19pt x 619.31375pt>
 File: PassivityOfICcontrollers.png Graphic file (type png)
 
 <use PassivityOfICcontrollers.png>
@@ -475,72 +599,72 @@ Package pdftex.def Info: PassivityOfICcontrollers.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [24
+) [27
 
 
-] [25 <./PassivityOfICcontrollers.png>]
+] [28 <./PassivityOfICcontrollers.png>]
 \openout2 = `Diehl.aux'.
 
  (./Diehl.tex
-<OptimizationDiehl.png, id=108, 912.40875pt x 559.08875pt>
+<OptimizationDiehl.png, id=126, 912.40875pt x 559.08875pt>
 File: OptimizationDiehl.png Graphic file (type png)
 
 <use OptimizationDiehl.png>
 Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
-) [26
+) [29
 
 
  <./OptimizationDiehl.png>]
 \openout2 = `BettsPracticalMethods.aux'.
 
 
-(./BettsPracticalMethods.tex) [27
+(./BettsPracticalMethods.tex) [30
 
 
 ]
 \openout2 = `MotionPlanningHauser.aux'.
 
  (./MotionPlanningHauser.tex
-<FamilyModes.png, id=116, 835.12pt x 308.15125pt>
+<FamilyModes.png, id=134, 835.12pt x 308.15125pt>
 File: FamilyModes.png Graphic file (type png)
  <use FamilyModes.png>
 Package pdftex.def Info: FamilyModes.png used on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 125.98547pt.
 )
-[28
+[31
 
 
  <./FamilyModes.png>]
 \openout2 = `NonlinearCPHauser.aux'.
 
- (./NonlinearCPHauser.tex) [29
+ (./NonlinearCPHauser.tex) [32
 
 
 ]
 \openout2 = `BoydLinearSystems.aux'.
 
 
-(./BoydLinearSystems.tex) [30
+(./BoydLinearSystems.tex) [33
 
 
 ]
 \openout2 = `ModelPredictiveControl.aux'.
 
- (./ModelPredictiveControl.tex) [31
+ (./ModelPredictiveControl.tex) [34
 
 
 ]
 \openout2 = `eXtrapolatedCoM.aux'.
 
 
-(./eXtrapolatedCoM.tex) [32
+(./eXtrapolatedCoM.tex) [35
 
 
 ]
 \openout2 = `AbbeelApprenticeship.aux'.
 
- (./AbbeelApprenticeship.tex) [33
+ (./AbbeelApprenticeship.tex) [36
 
 
 ]
@@ -551,13 +675,14 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [34
+) [37
 
 ] (./MainLiteratureReview.aux
 (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
-(./CapturePoint.aux)
+(./Park2015.aux) (./CapturePoint.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
 (./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux)
 (./ParallelCompositionOfTemplates.aux) (./LeggedSelfManipulation.aux)
 (./NumericalMethodsForOptimalControl.aux)
@@ -573,10 +698,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3492 strings out of 493304
- 53540 string characters out of 6139870
- 124500 words of memory out of 5000000
- 6742 multiletter control sequences out of 15000+600000
+ 3701 strings out of 493304
+ 56821 string characters out of 6139870
+ 141275 words of memory out of 5000000
+ 6926 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -584,20 +709,21 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (34 pages, 671537 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MainLiteratureReview.pdf (37 pages, 814801 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 213 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
