@@ -1,6 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MainLiteratureReview.aux
+A level-1 auxiliary file: LearningPlanningControlChallengingTerrain.aux
 A level-1 auxiliary file: ModelingAndControlOfLeggedRObots.aux
 A level-1 auxiliary file: UnderactuatedRobotics.aux
 A level-1 auxiliary file: CapturePoint.aux
@@ -14,6 +15,7 @@ A level-1 auxiliary file: ReinforcementLearning.aux
 A level-1 auxiliary file: DynTorqueControlHyQ.aux
 A level-1 auxiliary file: GainScheduling.aux
 A level-1 auxiliary file: TorqueAndComplianceControl.aux
+A level-1 auxiliary file: ActiveImpedanceControllersOverview.aux
 A level-1 auxiliary file: Diehl.aux
 A level-1 auxiliary file: BettsPracticalMethods.aux
 A level-1 auxiliary file: MotionPlanningHauser.aux
@@ -21,9 +23,11 @@ A level-1 auxiliary file: NonlinearCPHauser.aux
 A level-1 auxiliary file: BoydLinearSystems.aux
 A level-1 auxiliary file: ModelPredictiveControl.aux
 A level-1 auxiliary file: eXtrapolatedCoM.aux
+A level-1 auxiliary file: AbbeelApprenticeship.aux
+A level-1 auxiliary file: ParkBoundingCheetahwithObstacles.aux
 The style file: unsrt.bst
 Database file #1: mybib.bib.bib
-I was expecting a `,' or a `}'---line 29 of file mybib.bib.bib
+I was expecting a `,' or a `}'---line 37 of file mybib.bib.bib
  :    
  :    url={http://motion.pratt.duke.edu/papers/Humanoids2015-Ramos-CapturePoint.pdf},
 (Error may have been on previous line)
@@ -49,36 +53,37 @@ while executing---line 944 of file unsrt.bst
 Warning--empty journal in SeminiFocchi2
 Warning--empty school in Hauser2008
 Warning--empty publisher in RamonHauser2015
-You've used 15 entries,
+Warning--empty journal in Wensing2015
+You've used 16 entries,
             1791 wiz_defined-function locations,
-            557 strings with 6847 characters,
-and the built_in function-call counts, 3135 in all, are:
-= -- 264
-> -- 137
+            565 strings with 7216 characters,
+and the built_in function-call counts, 3333 in all, are:
+= -- 275
+> -- 157
 < -- 4
-+ -- 53
-- -- 38
-* -- 190
-:= -- 504
-add.period$ -- 46
-call.type$ -- 15
-change.case$ -- 11
++ -- 60
+- -- 44
+* -- 204
+:= -- 542
+add.period$ -- 49
+call.type$ -- 16
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 160
-empty$ -- 315
-format.name$ -- 38
-if$ -- 702
+cite$ -- 24
+duplicate$ -- 168
+empty$ -- 329
+format.name$ -- 44
+if$ -- 741
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 17
-newline$ -- 77
-num.names$ -- 15
-pop$ -- 62
+int.to.str$ -- 16
+missing$ -- 18
+newline$ -- 82
+num.names$ -- 16
+pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 67
+skip$ -- 70
 stack$ -- 0
 substring$ -- 137
 swap$ -- 36
@@ -86,8 +91,8 @@ text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 7
-while$ -- 25
-width$ -- 17
-write$ -- 156
+warning$ -- 8
+while$ -- 26
+width$ -- 18
+write$ -- 165
 (There were 8 error messages)
