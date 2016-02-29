@@ -24,3 +24,5 @@
 \contentsline {section}{\numberline {24}A. Bemporad - Model Predictive Control Course}{34}
 \contentsline {section}{\numberline {25}A. Hof - The eXtrapolated Center of Mass concepts suggests a simple control of balance in walking \cite {AHof}}{35}
 \contentsline {section}{\numberline {26}P. Abbeel - Apprenticeship Learning and Reinforcement learning with application to robotic control - 2008}{36}
+\contentsline {section}{\numberline {27}Raibert - Adjusting step lenght for rough terrain locomotion}{37}
+\contentsline {section}{\numberline {28}T. De Boer, J.Pratt - Thesis}{38}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  9 FEB 2016 17:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  29 FEB 2016 01:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,9 +220,8 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
-) (./ParkBoundingCheetahwithObstacles.aux)
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
-(./SequentialComposition.aux
+) (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
+(./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
@@ -237,7 +236,8 @@ LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 
 ) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
 (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
-(./AbbeelApprenticeship.aux))
+(./AbbeelApprenticeship.aux) (./AdjustingStepLeghtRoughTerrain.aux)
+(./DeBoerThesis.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -668,6 +668,19 @@ Package pdftex.def Info: FamilyModes.png used on input line 14.
 
 
 ]
+\openout2 = `AdjustingStepLeghtRoughTerrain.aux'.
+
+
+(./AdjustingStepLeghtRoughTerrain.tex) [37
+
+
+]
+\openout2 = `DeBoerThesis.aux'.
+
+ (./DeBoerThesis.tex) [38
+
+
+]
 (./MainLiteratureReview.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -675,7 +688,7 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [37
+) [39
 
 ] (./MainLiteratureReview.aux
 (./LearningPlanningControlChallengingTerrain.aux)
@@ -692,16 +705,17 @@ Missing character: There is no ™ in font cmr10!
 (./Diehl.aux) (./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux)
 (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
 (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
-(./AbbeelApprenticeship.aux))
+(./AbbeelApprenticeship.aux) (./AdjustingStepLeghtRoughTerrain.aux)
+(./DeBoerThesis.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3701 strings out of 493304
- 56821 string characters out of 6139870
- 141275 words of memory out of 5000000
- 6926 multiletter control sequences out of 15000+600000
+ 3717 strings out of 493304
+ 57223 string characters out of 6139870
+ 141937 words of memory out of 5000000
+ 6928 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -720,10 +734,10 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (37 pages, 814801 bytes).
+Output written on MainLiteratureReview.pdf (39 pages, 815424 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 219 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
