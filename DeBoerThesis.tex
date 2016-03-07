@@ -1,1 +1,23 @@
-\section{T. De Boer, J.Pratt - Thesis}
+\section{T. De Boer, J.Pratt - Thesis Ch.4 - Foot Placement Control: step location and step time as a function of the desired walking gait}
+\subsection*{Summary}
+
+This chapter it is proved how the \textbf{Dynamic Foot Placement algorithm} outperforms the \textbf{constant offset algorithm} in terms of number of steps needed to reach the desired cyclic gait and in terms of viable initial conditions. The former is not done by optimal control but it is rather carried out in closed-form solution thanks to the consideration that the foot placement problem has got a number of decision variables dependent from the number of steps which we want to perform. The algorithm asses first the 0-steps problem in which the only decision variable is the time duration $t_0$ of the step. In this case the problem is over-constrained because there are four equations and only one decision variable.\\
+If the initial condition do not fit well the desired gait cycle then the 1-step strategy is adopted. In this case the problem is fully-constrained because we have four equations and four variables ($t_0, t_1$ and $S_0$)\\
+In the case that this strategy does not respect the torque limits (imposed on time) or the maximum step length constraint then the 2-steps strategy is implemented (which is under-constrained).
+
+\subsection*{Take aways}
+\begin{enumerate}
+\item the Dynamic Foot Placement algorithm, given a desired cyclic gait (given in form of initial guess for the CoP position and step time), provides the suitable foothold and step time for the next step. It is not bound to a particular planner, so it can be used by some high-level planner to determine the necessary footholds.
+\item The performances of the foot placement planner are counted in terms of the \textbf{number of steps needed} to reach the desired gait limit cycle.
+\item The problem is solved with closed-form expressions rather than using optimal control (which is not suitable for real time applications)
+\item this approach does not keep into account the mechanical work of the system and uses the 3d-LIP model which is very simplistic
+
+\end{enumerate}
+\subsection*{Ideas}
+
+\begin{itemize}
+\item In this paper it is assumed that a step has no instantaneous effect
+on the velocity of the point mass... what about considering it instead?? Every impact could be considered as a loss of energy dependent on the compliance of the robot!!!
+
+\item what about computing a \textit{capture speed} rather than a \textit{capture point}? Obviously when the speed is null the capture speed should reduce to the capture point.
+\end{itemize}
