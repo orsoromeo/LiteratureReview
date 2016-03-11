@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  9 FEB 2016 17:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.9)  10 FEB 2016 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MainLiteratureReview.tex
 (./MainLiteratureReview.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -209,7 +209,7 @@ Package: subfigure 1995/03/06 v2.0
 \c@lotdepth=\count111
 ) (./MainLiteratureReview.aux (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
-(./Park2015.aux) (./CapturePoint.aux)
+(./BoundingRoughTerrainTedrake2011.aux) (./Park2015.aux) (./CapturePoint.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
@@ -220,9 +220,8 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
-) (./ParkBoundingCheetahwithObstacles.aux)
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
-(./SequentialComposition.aux
+) (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
+(./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
@@ -407,48 +406,55 @@ Missing character: There is no © in font cmr10!
 
 
 ]
+\openout2 = `BoundingRoughTerrainTedrake2011.aux'.
+
+ (./BoundingRoughTerrainTedrake2011.tex)
+[7
+
+
+]
 \openout2 = `Park2015.aux'.
 
- (./Park2015.tex) [7
+ (./Park2015.tex) [8
 
 
 ]
 \openout2 = `CapturePoint.aux'.
 
  (./CapturePoint.tex
-<CapturePoint.png, id=39, 430.60875pt x 589.20125pt>
+<CapturePoint.png, id=42, 430.60875pt x 589.20125pt>
 File: CapturePoint.png Graphic file (type png)
  <use CapturePoint.png>
 Package pdftex.def Info: CapturePoint.png used on input line 8.
 (pdftex.def)             Requested size: 256.0748pt x 350.39478pt.
 
-[8
+[9
 
 
- <./CapturePoint.png>] <CPPhasePlane.png, id=45, 711.65875pt x 477.785pt>
+ <./CapturePoint.png>] <CPPhasePlane.png, id=48, 711.65875pt x 477.785pt>
 File: CPPhasePlane.png Graphic file (type png)
 
 <use CPPhasePlane.png>
 Package pdftex.def Info: CPPhasePlane.png used on input line 20.
 (pdftex.def)             Requested size: 256.0748pt x 171.91498pt.
-) [9 <./CPPhasePlane.png>]
+) [10 <./CPPhasePlane.png>]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux'.
 
 
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex
-<CP.png, id=51, 454.69875pt x 380.42125pt>
+<CP.png, id=54, 454.69875pt x 380.42125pt>
 File: CP.png Graphic file (type png)
  <use CP.png>
 Package pdftex.def Info: CP.png used on input line 10.
 (pdftex.def)             Requested size: 142.26378pt x 119.02646pt.
 
-<CPF.png, id=52, 455.7025pt x 391.4625pt>
+<CPF.png, id=55, 455.7025pt x 391.4625pt>
 File: CPF.png Graphic file (type png)
  <use CPF.png>
 Package pdftex.def Info: CPF.png used on input line 15.
 (pdftex.def)             Requested size: 142.26378pt x 122.21225pt.
 
-<CPFM.png, id=53, 484.81125pt x 404.51125pt>
+<CPFM.png, id=56, 484.81125pt x 404.51125pt>
 File: CPFM.png Graphic file (type png)
  <use CPFM.png>
 Package pdftex.def Info: CPFM.png used on input line 20.
@@ -475,58 +481,53 @@ Underfull \hbox (badness 5119) in paragraph at lines 68--69
  r[] \OT1/cmr/m/n/10 +
  []
 
-[10
+[11
 
 
  <./CP.png> <./CPF.png> <./CPFM.png>]
-<InftyCapturability.png, id=61, 404.51125pt x 376.40625pt>
+<InftyCapturability.png, id=64, 404.51125pt x 376.40625pt>
 File: InftyCapturability.png Graphic file (type png)
 
 <use InftyCapturability.png>
 Package pdftex.def Info: InftyCapturability.png used on input line 86.
 (pdftex.def)             Requested size: 142.26378pt x 132.38168pt.
-) [11 <./InftyCapturability.png>]
+) [12 <./InftyCapturability.png>]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux'.
 
 
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.tex) [12
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.tex) [13
 
 
 ]
 \openout2 = `ParkBoundingCheetahwithObstacles.aux'.
 
 
-(./ParkBoundingCheetahwithObstacles.tex) [13
+(./ParkBoundingCheetahwithObstacles.tex) [14
 
 
 ]
 \openout2 = `SequentialComposition.aux'.
 
  (./SequentialComposition.tex
-Overfull \hbox (1.03278pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/14.4 D.E. Koditscheck - Se-quen-tial Com-po-si-tion of Dy-nam-i
--cally Dex-
- []
-
-<Koditschek1.png, id=73, 871.255pt x 375.4025pt>
+<Koditschek1.png, id=76, 871.255pt x 375.4025pt>
 File: Koditschek1.png Graphic file (type png)
  <use Koditschek1.png>
 Package pdftex.def Info: Koditschek1.png used on input line 14.
 (pdftex.def)             Requested size: 256.0748pt x 110.33607pt.
- [14
+ [15
 
 
- <./Koditschek1.png>]) [15]
+ <./Koditschek1.png>]) [16]
 \openout2 = `ParallelCompositionOfTemplates.aux'.
 
- (./ParallelCompositionOfTemplates.tex) [16
+ (./ParallelCompositionOfTemplates.tex) [17
 
 
 ]
 \openout2 = `LeggedSelfManipulation.aux'.
 
 
-(./LeggedSelfManipulation.tex) [17
+(./LeggedSelfManipulation.tex) [18
 
 
 ]
@@ -542,54 +543,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[18
+[19
 
 
-]) [19]
+]) [20]
 \openout2 = `ModelBasedPositionAndForceControlHy.aux'.
 
- (./ModelBasedPositionAndForceControlHy.tex [20
+ (./ModelBasedPositionAndForceControlHy.tex [21
 
 
-]) [21]
+]) [22]
 \openout2 = `ReinforcementLearning.aux'.
 
 
-(./ReinforcementLearning.tex) [22
+(./ReinforcementLearning.tex) [23
 
 
 ]
 \openout2 = `DynTorqueControlHyQ.aux'.
 
- (./DynTorqueControlHyQ.tex) [23
+ (./DynTorqueControlHyQ.tex) [24
 
 
 ]
 \openout2 = `GainScheduling.aux'.
 
 
-(./GainScheduling.tex) [24
+(./GainScheduling.tex) [25
 
 
 ]
 \openout2 = `TorqueAndComplianceControl.aux'.
 
  (./TorqueAndComplianceControl.tex
-<VelocityAndTorqueControl.png, id=109, 759.83875pt x 254.9525pt>
+<VelocityAndTorqueControl.png, id=113, 759.83875pt x 254.9525pt>
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
 Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
- [25
+ [26
 
 
  <./VelocityAndTorqueControl.png>])
-[26]
+[27]
 \openout2 = `ActiveImpedanceControllersOverview.aux'.
 
  (./ActiveImpedanceControllersOverview.tex
-<PassivityOfICcontrollers.png, id=118, 586.19pt x 619.31375pt>
+<PassivityOfICcontrollers.png, id=121, 586.19pt x 619.31375pt>
 File: PassivityOfICcontrollers.png Graphic file (type png)
 
 <use PassivityOfICcontrollers.png>
@@ -599,72 +600,72 @@ Package pdftex.def Info: PassivityOfICcontrollers.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [27
+) [28
 
 
-] [28 <./PassivityOfICcontrollers.png>]
+] [29 <./PassivityOfICcontrollers.png>]
 \openout2 = `Diehl.aux'.
 
  (./Diehl.tex
-<OptimizationDiehl.png, id=126, 912.40875pt x 559.08875pt>
+<OptimizationDiehl.png, id=129, 912.40875pt x 559.08875pt>
 File: OptimizationDiehl.png Graphic file (type png)
 
 <use OptimizationDiehl.png>
 Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
-) [29
+) [30
 
 
  <./OptimizationDiehl.png>]
 \openout2 = `BettsPracticalMethods.aux'.
 
 
-(./BettsPracticalMethods.tex) [30
+(./BettsPracticalMethods.tex) [31
 
 
 ]
 \openout2 = `MotionPlanningHauser.aux'.
 
  (./MotionPlanningHauser.tex
-<FamilyModes.png, id=134, 835.12pt x 308.15125pt>
+<FamilyModes.png, id=138, 835.12pt x 308.15125pt>
 File: FamilyModes.png Graphic file (type png)
  <use FamilyModes.png>
 Package pdftex.def Info: FamilyModes.png used on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 125.98547pt.
 )
-[31
+[32
 
 
  <./FamilyModes.png>]
 \openout2 = `NonlinearCPHauser.aux'.
 
- (./NonlinearCPHauser.tex) [32
+ (./NonlinearCPHauser.tex) [33
 
 
 ]
 \openout2 = `BoydLinearSystems.aux'.
 
 
-(./BoydLinearSystems.tex) [33
+(./BoydLinearSystems.tex) [34
 
 
 ]
 \openout2 = `ModelPredictiveControl.aux'.
 
- (./ModelPredictiveControl.tex) [34
+ (./ModelPredictiveControl.tex) [35
 
 
 ]
 \openout2 = `eXtrapolatedCoM.aux'.
 
 
-(./eXtrapolatedCoM.tex) [35
+(./eXtrapolatedCoM.tex) [36
 
 
 ]
 \openout2 = `AbbeelApprenticeship.aux'.
 
- (./AbbeelApprenticeship.tex) [36
+ (./AbbeelApprenticeship.tex) [37
 
 
 ]
@@ -675,12 +676,12 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [37
+) [38
 
 ] (./MainLiteratureReview.aux
 (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
-(./Park2015.aux) (./CapturePoint.aux)
+(./BoundingRoughTerrainTedrake2011.aux) (./Park2015.aux) (./CapturePoint.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
 (./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux)
@@ -698,12 +699,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3701 strings out of 493304
- 56821 string characters out of 6139870
- 141275 words of memory out of 5000000
- 6926 multiletter control sequences out of 15000+600000
+ 3709 strings out of 495028
+ 57102 string characters out of 6181498
+ 137319 words of memory out of 5000000
+ 6678 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -720,10 +721,10 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (37 pages, 814801 bytes).
+Output written on MainLiteratureReview.pdf (38 pages, 815881 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 216 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
