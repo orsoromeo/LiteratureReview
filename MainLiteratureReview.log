@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.2.9)  10 FEB 2016 14:58
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.25)  7 MAR 2016 18:49
->>>>>>> 9cd806422df73b53b47e3074cf51d709d43af1e8
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  11 APR 2016 18:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MainLiteratureReview.tex
 (./MainLiteratureReview.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -225,7 +221,11 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
 ) (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
-(./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux
+(./ParkVerticalImpulseScaling.aux
+
+LaTeX Warning: Label `InftyCap' multiply defined.
+
+) (./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux
 
 LaTeX Warning: Label `PhasePlane' multiply defined.
 
@@ -234,14 +234,15 @@ LaTeX Warning: Label `PhasePlane' multiply defined.
 (./ModelBasedPositionAndForceControlHy.aux) (./ReinforcementLearning.aux)
 (./DynTorqueControlHyQ.aux) (./GainScheduling.aux)
 (./TorqueAndComplianceControl.aux) (./ActiveImpedanceControllersOverview.aux)
-(./Diehl.aux) (./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux
+(./Diehl.aux) (./DiehlBros.aux) (./BettsPracticalMethods.aux)
+(./MotionPlanningHauser.aux
 
 LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 
 ) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
 (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
 (./AbbeelApprenticeship.aux) (./AdjustingStepLeghtRoughTerrain.aux)
-(./DeBoerThesis.aux))
+(./DeBoerThesis.aux) (./TodorovIHMPC.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -504,35 +505,54 @@ Package pdftex.def Info: InftyCapturability.png used on input line 86.
 
 
 ]
+\openout2 = `ParkVerticalImpulseScaling.aux'.
+
+
+(./ParkVerticalImpulseScaling.tex
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+
+<Poincar√®Map.png, id=73, 517.935pt x 433.62pt>
+File: Poincar√®Map.png Graphic file (type png)
+ <use Poincar√®Map.png>
+Package pdftex.def Info: Poincar√®Map.png used on input line 20.
+(pdftex.def)             Requested size: 284.52756pt x 238.22046pt.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ® in font cmr10!
+ [14
+
+
+ <./Poincar√®Map.png>]) [15]
 \openout2 = `ParkBoundingCheetahwithObstacles.aux'.
 
-
-(./ParkBoundingCheetahwithObstacles.tex) [14
+ (./ParkBoundingCheetahwithObstacles.tex) [16
 
 
 ]
 \openout2 = `SequentialComposition.aux'.
 
- (./SequentialComposition.tex
-<Koditschek1.png, id=76, 871.255pt x 375.4025pt>
+
+(./SequentialComposition.tex <Koditschek1.png, id=84, 871.255pt x 375.4025pt>
 File: Koditschek1.png Graphic file (type png)
- <use Koditschek1.png>
+
+<use Koditschek1.png>
 Package pdftex.def Info: Koditschek1.png used on input line 14.
 (pdftex.def)             Requested size: 256.0748pt x 110.33607pt.
- [15
+ [17
 
 
- <./Koditschek1.png>]) [16]
+ <./Koditschek1.png>]) [18]
 \openout2 = `ParallelCompositionOfTemplates.aux'.
 
- (./ParallelCompositionOfTemplates.tex) [17
+
+(./ParallelCompositionOfTemplates.tex) [19
 
 
 ]
 \openout2 = `LeggedSelfManipulation.aux'.
 
-
-(./LeggedSelfManipulation.tex) [18
+ (./LeggedSelfManipulation.tex)
+[20
 
 
 ]
@@ -548,54 +568,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[19
-
-
-]) [20]
-\openout2 = `ModelBasedPositionAndForceControlHy.aux'.
-
- (./ModelBasedPositionAndForceControlHy.tex [21
+[21
 
 
 ]) [22]
+\openout2 = `ModelBasedPositionAndForceControlHy.aux'.
+
+ (./ModelBasedPositionAndForceControlHy.tex [23
+
+
+]) [24]
 \openout2 = `ReinforcementLearning.aux'.
 
 
-(./ReinforcementLearning.tex) [23
+(./ReinforcementLearning.tex) [25
 
 
 ]
 \openout2 = `DynTorqueControlHyQ.aux'.
 
- (./DynTorqueControlHyQ.tex) [24
+ (./DynTorqueControlHyQ.tex) [26
 
 
 ]
 \openout2 = `GainScheduling.aux'.
 
 
-(./GainScheduling.tex) [25
+(./GainScheduling.tex) [27
 
 
 ]
 \openout2 = `TorqueAndComplianceControl.aux'.
 
  (./TorqueAndComplianceControl.tex
-<VelocityAndTorqueControl.png, id=113, 759.83875pt x 254.9525pt>
+<VelocityAndTorqueControl.png, id=121, 759.83875pt x 254.9525pt>
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
 Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
- [26
+ [28
 
 
  <./VelocityAndTorqueControl.png>])
-[27]
+[29]
 \openout2 = `ActiveImpedanceControllersOverview.aux'.
 
  (./ActiveImpedanceControllersOverview.tex
-<PassivityOfICcontrollers.png, id=121, 586.19pt x 619.31375pt>
+<PassivityOfICcontrollers.png, id=129, 586.19pt x 619.31375pt>
 File: PassivityOfICcontrollers.png Graphic file (type png)
 
 <use PassivityOfICcontrollers.png>
@@ -605,136 +625,137 @@ Package pdftex.def Info: PassivityOfICcontrollers.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [28
+) [30
 
 
-] [29 <./PassivityOfICcontrollers.png>]
+] [31 <./PassivityOfICcontrollers.png>]
 \openout2 = `Diehl.aux'.
 
  (./Diehl.tex
-<OptimizationDiehl.png, id=129, 912.40875pt x 559.08875pt>
+<OptimizationDiehl.png, id=138, 912.40875pt x 559.08875pt>
 File: OptimizationDiehl.png Graphic file (type png)
 
 <use OptimizationDiehl.png>
 Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
-) [30
+) [32
 
 
  <./OptimizationDiehl.png>]
+\openout2 = `DiehlBros.aux'.
+
+ (./DiehlBros.tex)
+[33
+
+
+]
 \openout2 = `BettsPracticalMethods.aux'.
 
-
-(./BettsPracticalMethods.tex) [31
+ (./BettsPracticalMethods.tex) [34
 
 
 ]
 \openout2 = `MotionPlanningHauser.aux'.
 
  (./MotionPlanningHauser.tex
-<FamilyModes.png, id=138, 835.12pt x 308.15125pt>
+<FamilyModes.png, id=149, 835.12pt x 308.15125pt>
 File: FamilyModes.png Graphic file (type png)
  <use FamilyModes.png>
 Package pdftex.def Info: FamilyModes.png used on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 125.98547pt.
 )
-[32
+[35
 
 
  <./FamilyModes.png>]
 \openout2 = `NonlinearCPHauser.aux'.
 
- (./NonlinearCPHauser.tex) [33
+ (./NonlinearCPHauser.tex) [36
 
 
 ]
 \openout2 = `BoydLinearSystems.aux'.
 
 
-(./BoydLinearSystems.tex) [34
+(./BoydLinearSystems.tex) [37
 
 
 ]
 \openout2 = `ModelPredictiveControl.aux'.
 
- (./ModelPredictiveControl.tex) [35
+ (./ModelPredictiveControl.tex) [38
 
 
 ]
 \openout2 = `eXtrapolatedCoM.aux'.
 
 
-(./eXtrapolatedCoM.tex) [36
+(./eXtrapolatedCoM.tex) [39
 
 
 ]
 \openout2 = `AbbeelApprenticeship.aux'.
 
- (./AbbeelApprenticeship.tex) [37
+ (./AbbeelApprenticeship.tex) [40
 
 
 ]
 \openout2 = `AdjustingStepLeghtRoughTerrain.aux'.
 
 
-(./AdjustingStepLeghtRoughTerrain.tex) [37
+(./AdjustingStepLeghtRoughTerrain.tex) [41
 
 
 ]
 \openout2 = `DeBoerThesis.aux'.
 
- (./DeBoerThesis.tex) [38
+ (./DeBoerThesis.tex) [42
 
 
 ]
-(./MainLiteratureReview.bbl
+\openout2 = `TodorovIHMPC.aux'.
+
+
+(./TodorovIHMPC.tex) [43
+
+
+] (./MainLiteratureReview.bbl
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-<<<<<<< HEAD
-) [38
-=======
-) [39
->>>>>>> 9cd806422df73b53b47e3074cf51d709d43af1e8
+) [44
 
-] (./MainLiteratureReview.aux
-(./LearningPlanningControlChallengingTerrain.aux)
+]
+(./MainLiteratureReview.aux (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
 (./BoundingRoughTerrainTedrake2011.aux) (./Park2015.aux) (./CapturePoint.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux)
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux)
-(./ParkBoundingCheetahwithObstacles.aux) (./SequentialComposition.aux)
-(./ParallelCompositionOfTemplates.aux) (./LeggedSelfManipulation.aux)
-(./NumericalMethodsForOptimalControl.aux)
+(./ParkVerticalImpulseScaling.aux) (./ParkBoundingCheetahwithObstacles.aux)
+(./SequentialComposition.aux) (./ParallelCompositionOfTemplates.aux)
+(./LeggedSelfManipulation.aux) (./NumericalMethodsForOptimalControl.aux)
 (./ModelBasedPositionAndForceControlHy.aux) (./ReinforcementLearning.aux)
 (./DynTorqueControlHyQ.aux) (./GainScheduling.aux)
 (./TorqueAndComplianceControl.aux) (./ActiveImpedanceControllersOverview.aux)
-(./Diehl.aux) (./BettsPracticalMethods.aux) (./MotionPlanningHauser.aux)
-(./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
-(./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
+(./Diehl.aux) (./DiehlBros.aux) (./BettsPracticalMethods.aux)
+(./MotionPlanningHauser.aux) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux
+) (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
 (./AbbeelApprenticeship.aux) (./AdjustingStepLeghtRoughTerrain.aux)
-(./DeBoerThesis.aux))
+(./DeBoerThesis.aux) (./TodorovIHMPC.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 3709 strings out of 495028
- 57102 string characters out of 6181498
- 137319 words of memory out of 5000000
- 6678 multiletter control sequences out of 15000+600000
-=======
- 3717 strings out of 493304
- 57223 string characters out of 6139870
- 141937 words of memory out of 5000000
- 6928 multiletter control sequences out of 15000+600000
->>>>>>> 9cd806422df73b53b47e3074cf51d709d43af1e8
+ 3754 strings out of 493304
+ 58078 string characters out of 6139872
+ 143270 words of memory out of 5000000
+ 6936 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -751,17 +772,10 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-<<<<<<< HEAD
-Output written on MainLiteratureReview.pdf (38 pages, 815881 bytes).
+Output written on MainLiteratureReview.pdf (44 pages, 892090 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
-=======
-Output written on MainLiteratureReview.pdf (39 pages, 817852 bytes).
-PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
->>>>>>> 9cd806422df73b53b47e3074cf51d709d43af1e8
+ 237 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
