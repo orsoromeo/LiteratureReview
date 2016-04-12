@@ -30,3 +30,5 @@
 \contentsline {section}{\numberline {30}Raibert - Adjusting step lenght for rough terrain locomotion}{41}
 \contentsline {section}{\numberline {31}T. De Boer, J.Pratt - Thesis Ch.4 - Foot Placement Control: step location and step time as a function of the desired walking gait}{42}
 \contentsline {section}{\numberline {32}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{43}
+\contentsline {section}{\numberline {33}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{44}
+\contentsline {section}{\numberline {34}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{45}
