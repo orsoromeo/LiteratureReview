@@ -33,3 +33,4 @@
 \contentsline {section}{\numberline {33}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{44}
 \contentsline {section}{\numberline {34}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{45}
 \contentsline {section}{\numberline {35}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{46}
+\contentsline {section}{\numberline {36}J. Full - How Animals Move: An integrative View - 2000}{47}
