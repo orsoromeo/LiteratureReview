@@ -33,4 +33,5 @@
 \contentsline {section}{\numberline {33}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{44}
 \contentsline {section}{\numberline {34}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{45}
 \contentsline {section}{\numberline {35}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{46}
-\contentsline {section}{\numberline {36}J. Full - How Animals Move: An integrative View - 2000}{47}
+\contentsline {section}{\numberline {36}Fukuoka - A simple rule for quadrupedal gait generation determined by leg loading feedback: a modeling study - 2015}{47}
+\contentsline {section}{\numberline {37}Fukuoka - Adaptive Dynamic Walking of a Quadruped Robot on Irregular Terrain Based on Biological Concepts - 2003}{48}

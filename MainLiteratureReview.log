@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  27 APR 2016 11:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.1.6)  2 MAY 2016 03:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MainLiteratureReview.tex
 (./MainLiteratureReview.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -245,8 +245,8 @@ LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 ) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux)
 (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
 (./AbbeelApprenticeship.aux) (./DeBoerThesis.aux) (./TodorovIHMPC.aux)
-(./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux)
-(./Full2000HowAnimalsMove.aux))
+(./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux) (./FukuokaCPG.aux)
+(./FukuokaIrregTerrain.aux))
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -746,24 +746,43 @@ Package pdftex.def Info: FamilyModes.png used on input line 14.
 
 
 ]
-\openout2 = `Full2000HowAnimalsMove.aux'.
+\openout2 = `FukuokaCPG.aux'.
 
 
-(./Full2000HowAnimalsMove.tex) [47
-
-
-] (./MainLiteratureReview.bbl
+(./FukuokaCPG.tex
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-) [48
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+) [47
+
 
 ]
-(./MainLiteratureReview.aux (./Raibert1986.aux)
-(./AdjustingStepLeghtRoughTerrain.aux)
+\openout2 = `FukuokaIrregTerrain.aux'.
+
+ (./FukuokaIrregTerrain.tex) [48
+
+
+]
+(./MainLiteratureReview.bbl
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+) [49
+
+] (./MainLiteratureReview.aux
+(./Raibert1986.aux) (./AdjustingStepLeghtRoughTerrain.aux)
 (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
 (./BoundingRoughTerrainTedrake2011.aux) (./WensingRunning.aux)
@@ -780,19 +799,19 @@ Missing character: There is no ™ in font cmr10!
 (./MotionPlanningHauser.aux) (./NonlinearCPHauser.aux) (./BoydLinearSystems.aux
 ) (./ModelPredictiveControl.aux) (./eXtrapolatedCoM.aux)
 (./AbbeelApprenticeship.aux) (./DeBoerThesis.aux) (./TodorovIHMPC.aux)
-(./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux)
-(./Full2000HowAnimalsMove.aux))
+(./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux) (./FukuokaCPG.aux)
+(./FukuokaIrregTerrain.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3786 strings out of 493304
- 58834 string characters out of 6139872
- 144596 words of memory out of 5000000
- 6940 multiletter control sequences out of 15000+600000
+ 3794 strings out of 495028
+ 58923 string characters out of 6181498
+ 140642 words of memory out of 5000000
+ 6692 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  38i,6n,32p,818b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -809,10 +828,10 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (48 pages, 893942 bytes).
+Output written on MainLiteratureReview.pdf (49 pages, 894905 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
+ 253 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
