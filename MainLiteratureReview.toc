@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {4}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{6}
 \contentsline {section}{\numberline {5}Tedrake - Underactuated Robotics}{8}
 \contentsline {section}{\numberline {6}Tedrake - Bounding on rough terrain with the LittleDog Robot - 2011}{9}
-\contentsline {section}{\numberline {7}Wensing, Orin - High-speed humanoid running through control with a 3D-SLIMP model}{10}
+\contentsline {section}{\numberline {7}Wensing, Orin - High-speed humanoid running through control with a 3D-SLIP model}{10}
 \contentsline {section}{\numberline {8}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{11}
 \contentsline {section}{\numberline {9}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{13}
 \contentsline {section}{\numberline {10}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 2 \cite {Koolen:2012:CAC:2344876.2344877}}{15}
@@ -33,4 +33,4 @@
 \contentsline {section}{\numberline {33}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{44}
 \contentsline {section}{\numberline {34}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{45}
 \contentsline {section}{\numberline {35}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{46}
-\contentsline {section}{\numberline {36}J. Full - How Animals Move: An integrative View - 2000}{47}
+\contentsline {section}{\numberline {36}Nakanishi, Mistri, Schaal - Operational Space Control: A theorical and Empirical Comparison - 2005}{47}
