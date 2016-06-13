@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  8 JUN 2016 13:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.1)  13 JUN 2016 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,7 +208,7 @@ Package: subfigure 1995/03/06 v2.0
 \c@subtable=\count110
 \c@lotdepth=\count111
 ) (./MainLiteratureReview.aux (./Raibert1986.aux)
-(./AdjustingStepLeghtRoughTerrain.aux)
+(./AdjustingStepLeghtRoughTerrain.aux) (./McGeerPassiveWalking.aux)
 (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
 (./BoundingRoughTerrainTedrake2011.aux) (./WensingRunning.aux)
@@ -249,7 +249,9 @@ LaTeX Warning: Label `OptimizationDiehl' multiply defined.
 (./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux)
 (./NakanishiOperationalSpaceControl.aux) (./FukuokaCPG.aux)
 (./FukuokaIrregTerrain.aux) (./HandbookRoboticsForceControl.aux)
-(./SteadyLocomotionDogs.aux) (./DogsRapidAccelerations.aux))
+(./SteadyLocomotionDogs.aux) (./WalterCarrierGRFGallopingDogs.aux)
+(./DogsRapidAccelerations.aux) (./HudsonHighSpeedGallopingCheetahGreyhound.aux)
+)
 \openout1 = `MainLiteratureReview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -264,8 +266,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen125
@@ -402,10 +403,16 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 
 ]
+\openout2 = `McGeerPassiveWalking.aux'.
+
+ (./McGeerPassiveWalking.tex)
+[6
+
+
+]
 \openout2 = `LearningPlanningControlChallengingTerrain.aux'.
 
-
-(./LearningPlanningControlChallengingTerrain.tex) [6
+ (./LearningPlanningControlChallengingTerrain.tex) [7
 
 
 ]
@@ -425,66 +432,66 @@ Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
-[7
+[8
 
 
-]) [8]
+]) [9]
 \openout2 = `UnderactuatedRobotics.aux'.
 
- (./UnderactuatedRobotics.tex) [9
+ (./UnderactuatedRobotics.tex) [10
 
 
 ]
 \openout2 = `BoundingRoughTerrainTedrake2011.aux'.
 
 
-(./BoundingRoughTerrainTedrake2011.tex) [10
+(./BoundingRoughTerrainTedrake2011.tex) [11
 
 
 ]
 \openout2 = `WensingRunning.aux'.
 
- (./WensingRunning.tex) [11
+ (./WensingRunning.tex) [12
 
 
 ]
 \openout2 = `CapturePoint.aux'.
 
 
-(./CapturePoint.tex <CapturePoint.png, id=51, 430.60875pt x 589.20125pt>
+(./CapturePoint.tex <CapturePoint.png, id=54, 430.60875pt x 589.20125pt>
 File: CapturePoint.png Graphic file (type png)
 
 <use CapturePoint.png>
 Package pdftex.def Info: CapturePoint.png used on input line 8.
 (pdftex.def)             Requested size: 256.0748pt x 350.39478pt.
- [12
+ [13
 
 
  <./CapturePoint.png>]
-<CPPhasePlane.png, id=57, 711.65875pt x 477.785pt>
+<CPPhasePlane.png, id=61, 711.65875pt x 477.785pt>
 File: CPPhasePlane.png Graphic file (type png)
  <use CPPhasePlane.png>
 Package pdftex.def Info: CPPhasePlane.png used on input line 20.
 (pdftex.def)             Requested size: 256.0748pt x 171.91498pt.
 )
-[13 <./CPPhasePlane.png>]
+[14 <./CPPhasePlane.png>]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.aux'.
 
 
 (./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart1.tex
-<CP.png, id=64, 454.69875pt x 380.42125pt>
+<CP.png, id=67, 454.69875pt x 380.42125pt>
 File: CP.png Graphic file (type png)
  <use CP.png>
 Package pdftex.def Info: CP.png used on input line 10.
 (pdftex.def)             Requested size: 142.26378pt x 119.02646pt.
 
-<CPF.png, id=65, 455.7025pt x 391.4625pt>
+<CPF.png, id=68, 455.7025pt x 391.4625pt>
 File: CPF.png Graphic file (type png)
  <use CPF.png>
 Package pdftex.def Info: CPF.png used on input line 15.
 (pdftex.def)             Requested size: 142.26378pt x 122.21225pt.
 
-<CPFM.png, id=66, 484.81125pt x 404.51125pt>
+<CPFM.png, id=69, 484.81125pt x 404.51125pt>
 File: CPFM.png Graphic file (type png)
  <use CPFM.png>
 Package pdftex.def Info: CPFM.png used on input line 20.
@@ -511,21 +518,21 @@ Underfull \hbox (badness 5119) in paragraph at lines 68--69
  r[] \OT1/cmr/m/n/10 +
  []
 
-[14
+[15
 
 
  <./CP.png> <./CPF.png> <./CPFM.png>]
-<InftyCapturability.png, id=74, 404.51125pt x 376.40625pt>
+<InftyCapturability.png, id=77, 404.51125pt x 376.40625pt>
 File: InftyCapturability.png Graphic file (type png)
 
 <use InftyCapturability.png>
 Package pdftex.def Info: InftyCapturability.png used on input line 86.
 (pdftex.def)             Requested size: 142.26378pt x 132.38168pt.
-) [15 <./InftyCapturability.png>]
+) [16 <./InftyCapturability.png>]
 \openout2 = `CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.aux'.
 
 
-(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.tex) [16
+(./CapturabilityBasedAnalysisAndControlofLeggedLocomotionPart2.tex) [17
 
 
 ]
@@ -536,52 +543,53 @@ Package pdftex.def Info: InftyCapturability.png used on input line 86.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
 
-<Poincar√®Map.png, id=82, 517.935pt x 433.62pt>
+<Poincar√®Map.png, id=85, 517.935pt x 433.62pt>
 File: Poincar√®Map.png Graphic file (type png)
  <use Poincar√®Map.png>
 Package pdftex.def Info: Poincar√®Map.png used on input line 20.
 (pdftex.def)             Requested size: 284.52756pt x 238.22046pt.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
- [17
+ [18
 
 
- <./Poincar√®Map.png>]) [18]
+ <./Poincar√®Map.png>]) [19]
 \openout2 = `ParkVerticalImpulseScalingGalloping.aux'.
 
- (./ParkVerticalImpulseScalingGalloping.tex) [19
+ (./ParkVerticalImpulseScalingGalloping.tex) [20
 
 
 ]
 \openout2 = `ParkBoundingCheetahwithObstacles.aux'.
 
 
-(./ParkBoundingCheetahwithObstacles.tex) [20
+(./ParkBoundingCheetahwithObstacles.tex) [21
 
 
 ]
 \openout2 = `SequentialComposition.aux'.
 
  (./SequentialComposition.tex
-<Koditschek1.png, id=97, 871.255pt x 375.4025pt>
+<Koditschek1.png, id=100, 871.255pt x 375.4025pt>
 File: Koditschek1.png Graphic file (type png)
  <use Koditschek1.png>
 Package pdftex.def Info: Koditschek1.png used on input line 14.
 (pdftex.def)             Requested size: 256.0748pt x 110.33607pt.
- [21
+
+[22
 
 
- <./Koditschek1.png>]) [22]
+ <./Koditschek1.png>]) [23]
 \openout2 = `ParallelCompositionOfTemplates.aux'.
 
- (./ParallelCompositionOfTemplates.tex) [23
+ (./ParallelCompositionOfTemplates.tex) [24
 
 
 ]
 \openout2 = `LeggedSelfManipulation.aux'.
 
 
-(./LeggedSelfManipulation.tex) [24
+(./LeggedSelfManipulation.tex) [25
 
 
 ]
@@ -597,54 +605,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[25
+[26
 
 
-]) [26]
+]) [27]
 \openout2 = `ModelBasedPositionAndForceControlHy.aux'.
 
- (./ModelBasedPositionAndForceControlHy.tex [27
+ (./ModelBasedPositionAndForceControlHy.tex [28
 
 
-]) [28]
+]) [29]
 \openout2 = `ReinforcementLearning.aux'.
 
 
-(./ReinforcementLearning.tex) [29
+(./ReinforcementLearning.tex) [30
 
 
 ]
 \openout2 = `DynTorqueControlHyQ.aux'.
 
- (./DynTorqueControlHyQ.tex) [30
+ (./DynTorqueControlHyQ.tex) [31
 
 
 ]
 \openout2 = `GainScheduling.aux'.
 
 
-(./GainScheduling.tex) [31
+(./GainScheduling.tex) [32
 
 
 ]
 \openout2 = `TorqueAndComplianceControl.aux'.
 
  (./TorqueAndComplianceControl.tex
-<VelocityAndTorqueControl.png, id=134, 759.83875pt x 254.9525pt>
+<VelocityAndTorqueControl.png, id=137, 759.83875pt x 254.9525pt>
 File: VelocityAndTorqueControl.png Graphic file (type png)
 
 <use VelocityAndTorqueControl.png>
 Package pdftex.def Info: VelocityAndTorqueControl.png used on input line 21.
 (pdftex.def)             Requested size: 341.43306pt x 114.56416pt.
- [32
+ [33
 
 
  <./VelocityAndTorqueControl.png>])
-[33]
+[34]
 \openout2 = `ActiveImpedanceControllersOverview.aux'.
 
  (./ActiveImpedanceControllersOverview.tex
-<PassivityOfICcontrollers.png, id=142, 586.19pt x 619.31375pt>
+<PassivityOfICcontrollers.png, id=145, 586.19pt x 619.31375pt>
 File: PassivityOfICcontrollers.png Graphic file (type png)
 
 <use PassivityOfICcontrollers.png>
@@ -654,111 +662,111 @@ Package pdftex.def Info: PassivityOfICcontrollers.png used on input line 16.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [34
+) [35
 
 
-] [35 <./PassivityOfICcontrollers.png>]
+] [36 <./PassivityOfICcontrollers.png>]
 \openout2 = `Diehl.aux'.
 
  (./Diehl.tex
-<OptimizationDiehl.png, id=150, 912.40875pt x 559.08875pt>
+<OptimizationDiehl.png, id=153, 912.40875pt x 559.08875pt>
 File: OptimizationDiehl.png Graphic file (type png)
 
 <use OptimizationDiehl.png>
 Package pdftex.def Info: OptimizationDiehl.png used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 209.21414pt.
-) [36
+) [37
 
 
  <./OptimizationDiehl.png>]
 \openout2 = `DiehlBros.aux'.
 
  (./DiehlBros.tex)
-[37
+[38
 
 
 ]
 \openout2 = `BettsPracticalMethods.aux'.
 
- (./BettsPracticalMethods.tex) [38
+ (./BettsPracticalMethods.tex) [39
 
 
 ]
 \openout2 = `MotionPlanningHauser.aux'.
 
  (./MotionPlanningHauser.tex
-<FamilyModes.png, id=162, 835.12pt x 308.15125pt>
+<FamilyModes.png, id=165, 835.12pt x 308.15125pt>
 File: FamilyModes.png Graphic file (type png)
  <use FamilyModes.png>
 Package pdftex.def Info: FamilyModes.png used on input line 14.
 (pdftex.def)             Requested size: 341.43306pt x 125.98547pt.
 )
-[39
+[40
 
 
  <./FamilyModes.png>]
 \openout2 = `NonlinearCPHauser.aux'.
 
- (./NonlinearCPHauser.tex) [40
+ (./NonlinearCPHauser.tex) [41
 
 
 ]
 \openout2 = `BoydLinearSystems.aux'.
 
 
-(./BoydLinearSystems.tex) [41
+(./BoydLinearSystems.tex) [42
 
 
 ]
 \openout2 = `ModelPredictiveControl.aux'.
 
- (./ModelPredictiveControl.tex) [42
+ (./ModelPredictiveControl.tex) [43
 
 
 ]
 \openout2 = `eXtrapolatedCoM.aux'.
 
 
-(./eXtrapolatedCoM.tex) [43
+(./eXtrapolatedCoM.tex) [44
 
 
 ]
 \openout2 = `AbbeelApprenticeship.aux'.
 
- (./AbbeelApprenticeship.tex) [44
+ (./AbbeelApprenticeship.tex) [45
 
 
 ]
 \openout2 = `DeBoerThesis.aux'.
 
 
-(./DeBoerThesis.tex) [45
+(./DeBoerThesis.tex) [46
 
 
 ]
 \openout2 = `TodorovIHMPC.aux'.
 
- (./TodorovIHMPC.tex) [46
+ (./TodorovIHMPC.tex) [47
 
 
 ]
 \openout2 = `OttEnglsDeadBeatStones.aux'.
 
 
-(./OttEnglsDeadBeatStones.tex) [47
+(./OttEnglsDeadBeatStones.tex) [48
 
 
 ]
 \openout2 = `EnglsDeadBeat2015.aux'.
 
- (./EnglsDeadBeat2015.tex) [48
+ (./EnglsDeadBeat2015.tex) [49
 
 
 ]
 \openout2 = `NakanishiOperationalSpaceControl.aux'.
 
 
-(./NakanishiOperationalSpaceControl.tex) [49
+(./NakanishiOperationalSpaceControl.tex) [50
 
 
 ]
@@ -777,47 +785,54 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-) [50
+) [51
 
 
 ]
 \openout2 = `FukuokaIrregTerrain.aux'.
 
 
-(./FukuokaIrregTerrain.tex) [51
+(./FukuokaIrregTerrain.tex) [52
 
 
 ]
 \openout2 = `HandbookRoboticsForceControl.aux'.
 
  (./HandbookRoboticsForceControl.tex
-<ImpedanceControl.png, id=206, 530.98375pt x 285.065pt>
+<ImpedanceControl.png, id=209, 530.98375pt x 285.065pt>
 File: ImpedanceControl.png Graphic file (type png)
 
 <use ImpedanceControl.png>
 Package pdftex.def Info: ImpedanceControl.png used on input line 15.
 (pdftex.def)             Requested size: 284.52756pt x 152.75403pt.
 
-<AdmittanceControl.png, id=207, 726.715pt x 269.005pt>
+<AdmittanceControl.png, id=210, 726.715pt x 269.005pt>
 File: AdmittanceControl.png Graphic file (type png)
 
 <use AdmittanceControl.png>
 Package pdftex.def Info: AdmittanceControl.png used on input line 21.
 (pdftex.def)             Requested size: 284.52756pt x 105.32199pt.
-) [52
+) [53
 
 
  <./ImpedanceControl.png> <./AdmittanceControl.png>]
 \openout2 = `SteadyLocomotionDogs.aux'.
 
- (./SteadyLocomotionDogs.tex) [53
+ (./SteadyLocomotionDogs.tex) [54
+
+
+]
+\openout2 = `WalterCarrierGRFGallopingDogs.aux'.
+
+ (./WalterCarrierGRFGallopingDogs.tex)
+[55
 
 
 ]
 \openout2 = `DogsRapidAccelerations.aux'.
 
  (./DogsRapidAccelerations.tex
-<figs/RapidAccelerations.png, id=216, 1060.96375pt x 459.7175pt>
+<figs/RapidAccelerations.png, id=223, 1060.96375pt x 459.7175pt>
 File: figs/RapidAccelerations.png Graphic file (type png)
 
 <use figs/RapidAccelerations.png>
@@ -835,22 +850,29 @@ Underfull \hbox (badness 7099) in paragraph at lines 61--62
 []\OT1/cmr/m/n/10 The un-avoid-able pitch-ing
  []
 
-[54
+[56
 
 
-]) [55 <./figs/RapidAccelerations.png>] (./MainLiteratureReview.bbl
+]) [57 <./figs/RapidAccelerations.png>]
+\openout2 = `HudsonHighSpeedGallopingCheetahGreyhound.aux'.
+
+
+(./HudsonHighSpeedGallopingCheetahGreyhound.tex) [58
+
+
+]
+(./MainLiteratureReview.bbl
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-)
-[56
+) [59
 
-] (./MainLiteratureReview.aux (./Raibert1986.aux)
-(./AdjustingStepLeghtRoughTerrain.aux)
-(./LearningPlanningControlChallengingTerrain.aux)
+] (./MainLiteratureReview.aux
+(./Raibert1986.aux) (./AdjustingStepLeghtRoughTerrain.aux)
+(./McGeerPassiveWalking.aux) (./LearningPlanningControlChallengingTerrain.aux)
 (./ModelingAndControlOfLeggedRObots.aux) (./UnderactuatedRobotics.aux)
 (./BoundingRoughTerrainTedrake2011.aux) (./WensingRunning.aux)
 (./CapturePoint.aux)
@@ -870,16 +892,18 @@ Missing character: There is no ô in font cmr10!
 (./OttEnglsDeadBeatStones.aux) (./EnglsDeadBeat2015.aux)
 (./NakanishiOperationalSpaceControl.aux) (./FukuokaCPG.aux)
 (./FukuokaIrregTerrain.aux) (./HandbookRoboticsForceControl.aux)
-(./SteadyLocomotionDogs.aux) (./DogsRapidAccelerations.aux))
+(./SteadyLocomotionDogs.aux) (./WalterCarrierGRFGallopingDogs.aux)
+(./DogsRapidAccelerations.aux) (./HudsonHighSpeedGallopingCheetahGreyhound.aux)
+)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3853 strings out of 493304
- 60611 string characters out of 6139872
- 146618 words of memory out of 5000000
- 6961 multiletter control sequences out of 15000+600000
+ 3877 strings out of 493304
+ 61422 string characters out of 6139872
+ 147613 words of memory out of 5000000
+ 6964 multiletter control sequences out of 15000+600000
  10530 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,32p,818b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -898,10 +922,10 @@ mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MainLiteratureReview.pdf (56 pages, 1122400 bytes).
+Output written on MainLiteratureReview.pdf (59 pages, 1123946 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
+ 290 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

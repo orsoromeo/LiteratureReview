@@ -1,42 +1,45 @@
 \contentsline {section}{\numberline {1}Raibert - Running on four legs as though they were one -1986}{4}
 \contentsline {section}{\numberline {2}Raibert - Adjusting step lenght for rough terrain locomotion - 1991}{5}
-\contentsline {section}{\numberline {3}Kalakrishnan, Buchli, Mistry, Schaal - Learning, Planning and control for quadruped locomotion over challenging terrain}{6}
-\contentsline {section}{\numberline {4}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{7}
-\contentsline {section}{\numberline {5}Tedrake - Underactuated Robotics}{9}
-\contentsline {section}{\numberline {6}Tedrake - Bounding on rough terrain with the LittleDog Robot - 2011}{10}
-\contentsline {section}{\numberline {7}Wensing, Orin - High-speed humanoid running through control with a 3D-SLIP model}{11}
-\contentsline {section}{\numberline {8}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{12}
-\contentsline {section}{\numberline {9}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877}}{14}
-\contentsline {section}{\numberline {10}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 2 \cite {Koolen:2012:CAC:2344876.2344877}}{16}
-\contentsline {section}{\numberline {11}Park, Kim - Quadruped Bounding Control with Variable Duty Cycle via Vertical Impulse Scaling - 2014}{17}
-\contentsline {section}{\numberline {12}Quadrupedal galloping control for a wide range of speed via vertical impulse scaling}{19}
-\contentsline {section}{\numberline {13}Park - Online Planning for Autonomous Running Jumps Over Obstacles in High-Speed Quadrupeds \cite {Wensing2015} - 2015}{20}
-\contentsline {section}{\numberline {14}D.E. Koditscheck - Sequential Composition of Dynamically Dexterous Robot Behaviors}{21}
-\contentsline {section}{\numberline {15}D.E. Koditschek - The Penn Jerboa: a platform for exploring parallel composition of templates - Koditschek}{23}
-\contentsline {section}{\numberline {16}D.E. Koditschek - Legged Self-manipulation \cite {johnson}}{24}
-\contentsline {section}{\numberline {17}Rao - Numerical Methods for Optimal Control \cite {Rao} \cite {Betts}}{25}
-\contentsline {section}{\numberline {18}Wang - Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite {ChenWang}}{27}
-\contentsline {section}{\numberline {19}Wang - A strategy for push recovery in quadruped robot based on reinforcement learning - 2015}{29}
-\contentsline {section}{\numberline {20}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{30}
-\contentsline {section}{\numberline {21}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{31}
-\contentsline {section}{\numberline {22}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{32}
-\contentsline {section}{\numberline {23}Gustavo A. Medrano-Cerda - Comparison of Various Active Impedance Control Approaches, Modeling, Implementation, Passivity, Stability and Trade-offs - 2012}{34}
-\contentsline {section}{\numberline {24}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{36}
-\contentsline {section}{\numberline {25}M. Diehl, S. Gros - Real Time MHE and MPC for a large scale mechatronic application - 2015}{37}
-\contentsline {section}{\numberline {26}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{38}
-\contentsline {section}{\numberline {27}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{39}
-\contentsline {section}{\numberline {28}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015}}{40}
-\contentsline {section}{\numberline {29}Boyd - Introduction to Linear Dynamical Systems}{41}
-\contentsline {section}{\numberline {30}A. Bemporad - Model Predictive Control Course}{42}
-\contentsline {section}{\numberline {31}A. Hof - The eXtrapolated Center of Mass concepts suggests a simple control of balance in walking \cite {AHof}}{43}
-\contentsline {section}{\numberline {32}P. Abbeel - Apprenticeship Learning and Reinforcement learning with application to robotic control - 2008}{44}
-\contentsline {section}{\numberline {33}T. De Boer, J.Pratt - Thesis Ch.4 - Foot Placement Control: step location and step time as a function of the desired walking gait}{45}
-\contentsline {section}{\numberline {34}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{46}
-\contentsline {section}{\numberline {35}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{47}
-\contentsline {section}{\numberline {36}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{48}
-\contentsline {section}{\numberline {37}Nakanishi, Mistri, Schaal - Operational Space Control: A theorical and Empirical Comparison - 2005}{49}
-\contentsline {section}{\numberline {38}Fukuoka - A simple rule for quadrupedal gait generation determined by leg loading feedback: a modeling study - 2015}{50}
-\contentsline {section}{\numberline {39}Fukuoka - Adaptive Dynamic Walking of a Quadruped Robot on Irregular Terrain Based on Biological Concepts - 2003}{51}
-\contentsline {section}{\numberline {40}Siciliano, Khatib - Handbook of Robotics, ch. 7, Force Control - 2008}{52}
-\contentsline {section}{\numberline {41}Maes - Steady locomotion in dogs: temporal and associated spatial coordination patterns and the effect of speed - 2007}{53}
-\contentsline {section}{\numberline {42}Walter, Carrier - Rapid acceleration in dogs: ground reaction forces and posture dynamics - 2009}{54}
+\contentsline {section}{\numberline {3}McGeer - Passive Dynamic Walking - 1990}{6}
+\contentsline {section}{\numberline {4}Kalakrishnan, Buchli, Mistry, Schaal - Learning, Planning and control for quadruped locomotion over challenging terrain - 2011}{7}
+\contentsline {section}{\numberline {5}Tedrake, Wieber - Modeling and Control of Legged Robots \cite {Tedrake1}}{8}
+\contentsline {section}{\numberline {6}Tedrake - Underactuated Robotics}{10}
+\contentsline {section}{\numberline {7}Tedrake - Bounding on rough terrain with the LittleDog Robot - 2011}{11}
+\contentsline {section}{\numberline {8}Wensing, Orin - High-speed humanoid running through control with a 3D-SLIP model}{12}
+\contentsline {section}{\numberline {9}J. Pratt, Goswami - Capture Point: A Step toward Humanoid Push Recovery \cite {Pratt+CDG:2006}}{13}
+\contentsline {section}{\numberline {10}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 1 \cite {Koolen:2012:CAC:2344876.2344877} - 2011}{15}
+\contentsline {section}{\numberline {11}J. Pratt, Goswami - Capturability Based Analysis and Control of Legged Robots - Part 2 \cite {Koolen:2012:CAC:2344876.2344877} - 2011}{17}
+\contentsline {section}{\numberline {12}Park, Kim - Quadruped Bounding Control with Variable Duty Cycle via Vertical Impulse Scaling - 2014}{18}
+\contentsline {section}{\numberline {13}Park - Quadrupedal galloping control for a wide range of speed via vertical impulse scaling - 2015}{20}
+\contentsline {section}{\numberline {14}Park - Online Planning for Autonomous Running Jumps Over Obstacles in High-Speed Quadrupeds \cite {Wensing2015} - 2015}{21}
+\contentsline {section}{\numberline {15}D.E. Koditscheck - Sequential Composition of Dynamically Dexterous Robot Behaviors}{22}
+\contentsline {section}{\numberline {16}D.E. Koditschek - The Penn Jerboa: a platform for exploring parallel composition of templates - Koditschek}{24}
+\contentsline {section}{\numberline {17}D.E. Koditschek - Legged Self-manipulation \cite {johnson}}{25}
+\contentsline {section}{\numberline {18}Rao - Numerical Methods for Optimal Control \cite {Rao} \cite {Betts}}{26}
+\contentsline {section}{\numberline {19}Wang - Model-Based Position and Force Controller for a Hydraulic Legged Robot \cite {ChenWang}}{28}
+\contentsline {section}{\numberline {20}Wang - A strategy for push recovery in quadruped robot based on reinforcement learning - 2015}{30}
+\contentsline {section}{\numberline {21}Focchi, Semini et al. - Dynamic Torque Control of a Hydraulic Quadruped Robot \cite {SeminiFocchi}}{31}
+\contentsline {section}{\numberline {22}Focchi, Semini et al. - Gain scheduling control for the hydraulic actuation of the HyQ robot leg}{32}
+\contentsline {section}{\numberline {23}Focchi, Semini et al. - Robot Impedance Control and Passivity Analysis with Inner Torque and Velocity Feedback Loops \cite {SeminiFocchi2}}{33}
+\contentsline {section}{\numberline {24}Gustavo A. Medrano-Cerda - Comparison of Various Active Impedance Control Approaches, Modeling, Implementation, Passivity, Stability and Trade-offs - 2012}{35}
+\contentsline {section}{\numberline {25}M. Diehl, Wieber - Fast direct multiple shooting algorithms for optimal robot control \cite {DiehlWieber}}{37}
+\contentsline {section}{\numberline {26}M. Diehl, S. Gros - Real Time MHE and MPC for a large scale mechatronic application - 2015}{38}
+\contentsline {section}{\numberline {27}Betts - Practical methods for optimal control and estimation using Nonlinear programming \cite {betts2010practical}}{39}
+\contentsline {section}{\numberline {28}K. Hauser - Motion Planning for legged and humanoid robots \cite {Hauser2008}}{40}
+\contentsline {section}{\numberline {29}K. Hauser, O. Ramon - Generalization of the Capture Point to Nonlinear Center of Mass and Uneven Terrain \cite {RamonHauser2015} - 2015}{41}
+\contentsline {section}{\numberline {30}Boyd - Introduction to Linear Dynamical Systems}{42}
+\contentsline {section}{\numberline {31}A. Bemporad - Model Predictive Control Course}{43}
+\contentsline {section}{\numberline {32}A. Hof - The eXtrapolated Center of Mass concepts suggests a simple control of balance in walking \cite {AHof}}{44}
+\contentsline {section}{\numberline {33}P. Abbeel - Apprenticeship Learning and Reinforcement learning with application to robotic control - 2008}{45}
+\contentsline {section}{\numberline {34}T. De Boer, J.Pratt - Thesis Ch.4 - Foot Placement Control: step location and step time as a function of the desired walking gait}{46}
+\contentsline {section}{\numberline {35}Todorov - Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts - 2011}{47}
+\contentsline {section}{\numberline {36}Englsberger, Ott - Biologically inspired deadbeat control for running on 3d stepping stones - 2015}{48}
+\contentsline {section}{\numberline {37}Englsberger, Ott - Biologically inspired deadbeat controller for bipedal running in 3D - 2015}{49}
+\contentsline {section}{\numberline {38}Nakanishi, Mistri, Schaal - Operational Space Control: A theorical and Empirical Comparison - 2005}{50}
+\contentsline {section}{\numberline {39}Fukuoka - A simple rule for quadrupedal gait generation determined by leg loading feedback: a modeling study - 2015}{51}
+\contentsline {section}{\numberline {40}Fukuoka - Adaptive Dynamic Walking of a Quadruped Robot on Irregular Terrain Based on Biological Concepts - 2003}{52}
+\contentsline {section}{\numberline {41}Siciliano, Khatib - Handbook of Robotics, ch. 7, Force Control - 2008}{53}
+\contentsline {section}{\numberline {42}Maes - Steady locomotion in dogs: temporal and associated spatial coordination patterns and the effect of speed - 2007}{54}
+\contentsline {section}{\numberline {43}Walter, Carrier - Ground force applied by galloping dogs - 2006}{55}
+\contentsline {section}{\numberline {44}Walter, Carrier - Rapid acceleration in dogs: ground reaction forces and posture dynamics - 2009}{56}
+\contentsline {section}{\numberline {45}Hudson - High speed galloping in the cheetah (Acinonyx jubatus) and the racing greyhound (Canis familiaris): spatio-temporal and kinetic characteristics - 2012}{58}
