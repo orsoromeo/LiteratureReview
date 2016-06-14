@@ -43,3 +43,5 @@
 \contentsline {section}{\numberline {43}Walter, Carrier - Ground force applied by galloping dogs - 2006}{55}
 \contentsline {section}{\numberline {44}Walter, Carrier - Rapid acceleration in dogs: ground reaction forces and posture dynamics - 2009}{56}
 \contentsline {section}{\numberline {45}Hudson - High speed galloping in the cheetah (Acinonyx jubatus) and the racing greyhound (Canis familiaris): spatio-temporal and kinetic characteristics - 2012}{58}
+\contentsline {section}{\numberline {46}Hobbelen - A disturbance rejection measure for limit cycle walkers: the gait sensitivity norm - 2007}{59}
+\contentsline {section}{\numberline {47}Bertram, Guntman - Motions of the running horse and cheetah revisited: fundamental mechanics of the transverse and rotary gallop - 2009}{60}

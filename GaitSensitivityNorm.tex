@@ -1,0 +1,19 @@
+\section{Hobbelen - A disturbance rejection measure for limit cycle walkers: the gait sensitivity norm - 2007}
+
+\subsection*{Summary}
+The gait sensitivity norm is a stability measure which evaluates the effect of a given disturbance $e$ on a given cyclic quantity $g$. $g$ can be a scalar or a vector containing the some state of a limit cycle walker, like its speed or the joint angles. For simplicity in the paper only one scalar $T^*$ is chosen, which represents the nominal $cycle time$ of the limit cycle walker.\\
+The author proves that, in the easiest model of a walker (compass model), the cycle time $T^*$ and the robustness of the gait (i.e. not falling) are tightly connected. A variation of the actual cycle time  $T$ (which happens when there is some height variation in the ground) will necessarily make the robot fall forward (step-down case) or backward (step-up case). Therefore the cycle time $T$ is a good state for $g$.\\
+Definition of \textbf{Gait Sensitivity Norm}:
+$$  ||\frac{\partial \mathbf{g}}{\partial \mathbf{e}}||_2 = \frac{1}{|e_0|} \sqrt{\sum_{i=1}^q \sum_{k=0}^\infty (\mathbf{g}_k(i) - \mathbf{g^*}(i))^2}$$
+where $k$ is the number of steps after that the disturbance $e_0$ has been applied. $q$ is the number of elements of the vector $\mathbf{g}$.\\
+The authors prove that the gait sensitivity norm approximates the Basin of Attraction \textbf{BoA} (which is the real set of initial states which lead to a stable limit cycle gait) much better than other measures such as:
+\begin{itemize}
+\item \textbf{largest allowable deterministic disturbance} which can be applied (a height variation or a push on the hip for example);
+\item \textbf{Largest Floquet multiplier}.
+\end{itemize}
+The gait sensitivity norm can be computed very quickly using therefore experimental data coming from simulations.\\
+An analytic form of the gait sensitivity norm can also be computed by computing a fixed point $\mathbf{v}$ performing a Newthon-Raphson search as done by McGeer [\textbf{Passive Dynamic Walker}] and then linearizing. 
+$$  ||\frac{\partial \mathbf{g}}{\partial \mathbf{e}}||_2 = \frac{1}{|e_0|} \sqrt{trace(D^T D) + \sum_{k=0}^\infty trace(B^T (A^T)^k C^T C A^k B)} $$
+where $A, B, C$ and $D$ are the sensitivity matrices of the system:
+$$ \Delta \mathbf{v}_{n+1} = A \Delta \mathbf{v}_n +B \mathbf{e}_n$$
+$$ \Delta \mathbf{g}_{n+1} = C \Delta \mathbf{v}_n +D \mathbf{e}_n$$
