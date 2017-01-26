@@ -1,0 +1,44 @@
+\section{D. Pardo, A. Winkler - Evaluating direct transcription and nonlinear optmization methods for robot motion planning}
+
+Analized integration methods:
+\begin{itemize}
+\item Newton step
+\item Direct collocation
+\begin{itemize}
+\item Trapezoidal method
+\item Cubic Hermite polynomial
+\end{itemize}
+\item Implicit methods
+\begin{itemize}
+\item Runge Kutta 4
+\end{itemize}
+\end{itemize}
+
+Analized solvers:
+\begin{itemize}
+\item Sequential Quadratic Programming (SQP) sover: SNOPT
+\item Interior Point Method (IPM): IPOPT
+\end{itemize}
+
+Influent parameters:
+\begin{enumerate}
+\item number of discretization nodes
+\item number of control inputs and states
+\item sparsity
+\item variables initialization
+\item number of constraints
+\end{enumerate}
+
+Evaluation quantities:
+\begin{enumerate}
+\item computation time (CPU time)
+\item quality of the solution (cost function value)
+\item accuracy of the solution: absolute value of the feedback action in the simulation and in the hardware
+\end{enumerate}
+In \textbf{Trajectory Optimization (TO)} in general we always need to verify that the optimal solution is coherent with the dynamic constraints.
+\subsection*{Conclusions}
+\begin{itemize}
+\item The choice of the solver is very determinant for the speed of the computation of the optimal solution
+\item The integration scheme (Cubic Hermit rather than trapezoidal) is very determinant on the computation speed for a high number of integration nodes (above 20)
+\item The initialization of the variables is fundamental for the computation time and for finding a feasible solution. Naive approaches like random or zero initialization might not work. A good strategy is homotopy (i.e. incremental solutions).
+\end{itemize}
