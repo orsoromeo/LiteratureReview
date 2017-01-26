@@ -1,0 +1,106 @@
+\section{Optimal Control and Estimation Course - M. Diehl}
+
+\subsection*{Class 1 - 02/01/2017}
+
+\begin{itemize}
+\item All possible categorizations of dynamic systems:
+\begin{enumerate}
+\item time-variant vs time-invariant systems
+\item continuous vs discrete dimensional state space
+\item continuous state space vs discrete state space
+\item continuous time (ODEs) vs discrete-time (difference equations)
+\item controlled vs uncontrolled (autonomous)
+\item continuous vs discrete controls
+\item linear vs nonlinear
+\item open-loop ($\mathbf{u}(t)$) vs closed-loop
+ ($\mathbf{u}(\mathbf{x}(t))$)
+\item deterministic vs stochastic
+\item stable vs unstable
+\end{enumerate}
+\item continuous time systems
+\item Picard-Lindlh\"of theorem
+\end{itemize}
+\subsection*{Class 2 - 03/01/2017}
+
+\begin{itemize}
+\item Zero Order Hold (ZOH) = continuous state and discrete control case
+\item Solution map from linear continuous time to linear discrete time systems
+
+$$ \dot{\mathbf{x}} = \mathbf{f}(\mathbf{x}, \mathbf{u}) = \mathbf{A}\mathbf{x} + \mathbf{B}\mathbf{u} \rightarrow \mathbf{x}_{k+1} = \mathbf{f}_{discr}(\mathbf{x}_k, \mathbf{u}_k) = \mathbf{A}_{discr}\mathbf{x}_k + \mathbf{B}_{discr}\mathbf{u}_k$$
+\item Numerical integration methods for discretization
+\begin{enumerate}
+\item Euler method
+\item Runge-Kutta 4
+\end{enumerate}
+\item Discrete time systems
+\item Controllability of discrete LTV sys
+\end{itemize}
+
+\subsection*{Class 3 - 03/01/2017}
+\begin{itemize}
+\item Affine sys
+$$ \mathbf{x}_{k+1} = \mathbf{A}_k \mathbf{x}_k + \mathbf{B}_k \mathbf{u}_k + \mathbf{c}_k$$
+An affine sys is by instance the result of a path following task in which you linearize a nonlinear system along a trajectory; if this trajectory is unfeasible then the affine term $\mathbf{c}_k$ will be non null.
+\item Optimal Control categories
+\begin{enumerate}
+\item Finite vs infinite dimensional decision variables
+\item Continuous vs Integer optimization
+\item Linear (LP) vs Quadratic (QP) vs Linear-Quadratic (LQP) vs Nonlinear programs (NLP)
+\begin{itemize}
+\item N.B.: QPs also include cost functions with mixed quadratic and linear terms
+\item LQP means that the cost function is quadratic and the constraints are linear
+\end{itemize}
+\item Convex vs Non-convex OCPs
+\begin{itemize}
+\item LP $\rightarrow$ convex
+\item QP $\rightarrow$ can be eithe convex or non-convex depending on the sign of the Hessian matrix $\mathbf{B}$
+\item NLP $\rightarrow$ non-convex
+\end{itemize}
+\end{enumerate}
+\item Dynamic Programming (DP) = discrete state space and discrete controls. The cost functions and the constraints could be linear, quadratic or nonlinear
+\begin{itemize}
+\item DP works well for OCPs where the initial condition is known
+\end{itemize}
+\end{itemize}
+\subsection*{Class 4 - 04/01/2017}
+\begin{itemize}
+\item LQPs
+\begin{itemize}
+\item Shurl Complement Lemma
+\item Riccati Equation with finite horizon
+\end{itemize}
+\item Linear Quadratic Regulator (LQR) = Dynamic Programming applied to a linear quadratic problem. This gives and optimal feedback.
+$$LQR = DP + LQP$$
+The dyn. prog algorithm can also be applied backward given the optimal final condition rather than the optimal initial condition
+\end{itemize}
+
+\subsection*{Class 5 - }
+\begin{itemize}
+\item Convex Optimization
+\begin{itemize}
+\item function convexity can be checked by looking at its gradient: 
+$\mathbf{f}$ is convex iff $\nabla \mathbf{f} \geq 0$
+\end{itemize}
+\item First Order Optimality Conditions
+\begin{itemize}
+\item Constraints qualification: Linear Independence Constraint Qualification (LICQ)
+\item Karush-Kuhn-Tucker (KKT) sufficient conditions for optimality
+\end{itemize}
+\item Second Order Sufficient Conditions for optimality (SOSC)
+\item QPs with equality constraints
+
+\end{itemize}
+
+\subsection*{Class 6 -  13/01/2017}
+\begin{itemize}
+\item Stability under perturbations
+\item Newton-type optimization algorithms
+\item Quadratic Model Interpretation = a NLP can be solved by defining a QP because we can prove that the two problems share exactly the same KKT conditions. This method is called \textbf{Sequential Quadratic Programming (SQP)}.
+\item Relation between NLPs and Optimal Control Problems (OCPs)
+\item Exact Newton method = the matrix $\mathbf{B}$ is exactly the gradient of the lagrangian function
+\item Newton Type methods:
+\begin{enumerate}
+\item Gauss-Newton (G-N) method = the matrix \textbf{B} is the approximated using the gradient of the residual function \textbf{R}
+\item BFGS method = 
+\end{enumerate}
+\end{itemize}
